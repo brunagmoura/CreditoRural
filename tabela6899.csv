@@ -257,7 +257,7 @@
 1506203;Salinópolis (PA);3;102;32;2;-;X;139
 1506302;Salvaterra (PA);35;2446;228;619;-;6;3334
 1506351;Santa Bárbara do Pará (PA);-;836;3;2;-;-;841
-1506401;Santa Cruz do Arari (PA);-;-;-;X;-;-;NA
+1506401;Santa Cruz do Arari (PA);0;0;0;X;0;0;NA
 1506500;Santa Izabel do Pará (PA);75;2373;732;100;17;15;3312
 1506559;Santa Luzia do Pará (PA);1393;325;212;74;6;349;2359
 1506583;Santa Maria das Barreiras (PA);X;43261;4399;5595;X;3724;56979
@@ -1402,7 +1402,7 @@
 2512747;Riachão (PB);X;20;11;27;-;X;58
 2512754;Riachão do Bacamarte (PB);2;17;19;27;-;7;72
 2512762;Riachão do Poço (PB);12;250;15;19;X;5;301
-2512788;Riacho de Santo Antônio (PB);X;X;X;X;-;-;NA
+2512788;Riacho de Santo Antônio (PB);X;X;X;X;0;0;NA
 2512804;Riacho dos Cavalos (PB);84;2055;27;29;X;-;2195
 2512903;Rio Tinto (PB);2796;11364;19;4696;-;X;18875
 2513000;Salgadinho (PB);6;45;7;3;-;-;61
@@ -2909,7 +2909,7 @@
 3157252;Santa Bárbara do Leste (MG);87;5777;272;833;X;X;6969
 3157278;Santa Bárbara do Monte Verde (MG);314;706;79;18;-;118;1235
 3157302;Santa Bárbara do Tugúrio (MG);159;354;150;16;X;173;852
-3157336;Santa Cruz de Minas (MG);-;X;X;X;-;-;NA
+3157336;Santa Cruz de Minas (MG);0;X;X;X;0;0;NA
 3157377;Santa Cruz de Salinas (MG);356;101;66;2;-;695;1220
 3157401;Santa Cruz do Escalvado (MG);287;338;118;68;X;111;922
 3157500;Santa Efigênia de Minas (MG);74;85;15;5;-;14;193
@@ -3178,7 +3178,7 @@
 3300209;Araruama (RJ);436;1451;186;167;36;118;2394
 3300225;Areal (RJ);40;146;30;62;-;X;278
 3300233;Armação dos Búzios (RJ);-;8;X;X;-;X;8
-3300258;Arraial do Cabo (RJ);X;X;X;-;-;-;NA
+3300258;Arraial do Cabo (RJ);X;X;X;0;0;0;NA
 3300308;Barra do Piraí (RJ);486;578;50;16;-;X;1130
 3300407;Barra Mansa (RJ);1756;1188;947;114;-;42;4047
 3300456;Belford Roxo (RJ);X;9;-;X;-;-;9
@@ -3246,7 +3246,7 @@
 3304805;São Fidélis (RJ);2161;1322;647;782;18;914;5844
 3304904;São Gonçalo (RJ);-;65;13;3;5;7;93
 3305000;São João da Barra (RJ);373;1479;394;654;X;X;2900
-3305109;São João de Meriti (RJ);-;-;-;-;-;-;NA
+3305109;São João de Meriti (RJ);0;0;0;0;0;0;0
 3305133;São José de Ubá (RJ);314;609;182;454;-;X;1559
 3305158;São José do Vale do Rio Preto (RJ);1517;2698;966;441;94;-;5716
 3305208;São Pedro da Aldeia (RJ);224;97;9;14;-;X;344
@@ -3333,7 +3333,7 @@
 3506102;Bebedouro (SP);4199;26248;2420;20060;X;X;52927
 3506201;Bento de Abreu (SP);195;5070;124;3459;-;-;8848
 3506300;Bernardino de Campos (SP);4683;10176;4927;6227;X;X;26013
-3506359;Bertioga (SP);-;X;-;-;-;-;NA
+3506359;Bertioga (SP);0;X;0;0;0;0;NA
 3506409;Bilac (SP);3249;3496;1283;1788;X;X;9816
 3506508;Birigui (SP);8536;10726;7351;5821;X;X;32434
 3506607;Biritiba Mirim (SP);3039;8191;5020;3522;X;-;19772
@@ -3801,7 +3801,7 @@
 3548203;Santo Antônio do Pinhal (SP);311;402;209;198;X;-;1120
 3548302;Santo Expedito (SP);2192;974;27;616;-;64;3873
 3548401;Santópolis do Aguapeí (SP);1308;1660;162;2452;-;X;5582
-3548500;Santos (SP);-;-;-;-;-;-;NA
+3548500;Santos (SP);0;0;0;0;0;0;0
 3548609;São Bento do Sapucaí (SP);865;789;303;152;22;15;2146
 3548708;São Bernardo do Campo (SP);X;206;147;11;-;-;364
 3548807;São Caetano do Sul (SP);-;39;32;X;-;-;71
@@ -3828,7 +3828,7 @@
 3550704;São Sebastião (SP);46;33;1;X;-;-;80
 3550803;São Sebastião da Grama (SP);450;6982;808;2453;X;59;10752
 3550902;São Simão (SP);6926;3425;453;7301;-;18;18123
-3551009;São Vicente (SP);-;X;X;-;-;-;NA
+3551009;São Vicente (SP);0;X;X;0;0;0;NA
 3551108;Sarapuí (SP);2116;4732;1060;2477;743;74;11202
 3551207;Sarutaiá (SP);1540;3588;927;2078;X;X;8133
 3551306;Sebastianópolis do Sul (SP);571;30191;905;23255;-;X;54922
@@ -3847,7 +3847,7 @@
 3552551;Suzanápolis (SP);994;8321;483;5957;-;559;16314
 3552601;Tabapuã (SP);1593;5150;461;4533;-;X;11737
 3552700;Tabatinga (SP);461;3204;1043;2157;X;X;6865
-3552809;Taboão da Serra (SP);-;X;X;X;-;-;NA
+3552809;Taboão da Serra (SP);0;X;X;X;0;0;NA
 3552908;Taciba (SP);4461;7752;5481;7429;X;X;25123
 3553005;Taguaí (SP);951;2313;1375;2612;70;50;7371
 3553104;Taiaçu (SP);2867;4813;1350;5535;189;X;14754
@@ -4341,7 +4341,7 @@
 4202305;Biguaçu (SC);1318;2022;534;414;X;X;4288
 4202404;Blumenau (SC);257;424;174;85;12;X;952
 4202438;Bocaina do Sul (SC);683;1677;784;639;231;240;4254
-4202453;Bombinhas (SC);-;X;X;-;-;-;NA
+4202453;Bombinhas (SC);0;X;X;0;0;0;NA
 4202503;Bom Jardim da Serra (SC);1162;3266;980;9426;X;100;14934
 4202537;Bom Jesus (SC);498;3241;1766;2393;12;160;8070
 4202578;Bom Jesus do Oeste (SC);587;3510;1921;1652;-;198;7868
@@ -4755,7 +4755,7 @@
 4307500;Espumoso (RS);12959;30304;6211;29715;X;446;79635
 4307559;Estação (RS);1707;3788;2369;3656;X;55;11575
 4307609;Estância Velha (RS);X;154;154;29;-;-;337
-4307708;Esteio (RS);X;X;X;X;-;-;NA
+4307708;Esteio (RS);X;X;X;X;0;0;NA
 4307807;Estrela (RS);2186;5263;4025;1510;8;117;13109
 4307815;Estrela Velha (RS);2613;6626;2283;6754;4;148;18428
 4307831;Eugênio de Castro (RS);7861;43136;6359;15500;1;572;73429
