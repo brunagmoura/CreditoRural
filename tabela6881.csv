@@ -1,4 +1,4 @@
-﻿Município (Código);Município;Lavouras - permanentes;Lavouras - temporárias;Lavouras - área para cultivo de flores;Pastagens - naturais;Pastagens - plantadas em boas condições;Pastagens - pastagens plantadas em más condições;Matas ou florestas - matas e/ou florestas naturais;Matas ou florestas - florestas plantadas;Sistemas agroflorestais - área cultivada com espécies florestais também usada para lavouras e pastoreio por animais;Soma
+﻿Município (Código);Município;Lavouras 0 permanentes;Lavouras 0 temporárias;Lavouras 0 área para cultivo de flores;Pastagens 0 naturais;Pastagens 0 plantadas em boas condições;Pastagens 0 pastagens plantadas em más condições;Matas ou florestas 0 matas e/ou florestas naturais;Matas ou florestas 0 florestas plantadas;Sistemas agroflorestais 0 área cultivada com espécies florestais também usada para lavouras e pastoreio por animais;Soma
 1100015;Alta Floresta D'Oeste (RO);6066.5;2080.3;7.7;24757.7;211273.1;2316.9;31465.5;258.3;10480.8;288706.8
 1100023;Ariquemes (RO);5234.5;5341.3;X;X;219168;2617.8;9191.4;615;1573.3;243741.3
 1100031;Cabixi (RO);4637.3;30451.3;X;5040.6;52431.3;380.2;246.1;593.4;X;93780.2
@@ -2909,7 +2909,7 @@
 3157252;Santa Bárbara do Leste (MG);4142.9;351.6;2.5;1632.5;283.7;X;13.2;428.5;X;6854.9
 3157278;Santa Bárbara do Monte Verde (MG);40.1;435.5;-;2117.8;12125.7;730;-;X;X;15449.1
 3157302;Santa Bárbara do Tugúrio (MG);777.3;325.3;-;377;9316.3;X;84.2;337.6;X;11217.7
-3157336;Santa Cruz de Minas (MG);-;X;-;-;X;-;-;-;-;0
+3157336;Santa Cruz de Minas (MG);0;X;0;0;X;0;0;0;0;NA
 3157377;Santa Cruz de Salinas (MG);266.7;1047.3;X;2892.7;8589;5206.7;962.3;X;2332;21296.7
 3157401;Santa Cruz do Escalvado (MG);226.9;1342.1;X;3409;6464.4;2116.7;118.5;131.3;X;13808.9
 3157500;Santa Efigênia de Minas (MG);64.4;178.5;-;724.4;4811.4;380.4;892.6;304.7;-;7356.4
@@ -3178,7 +3178,7 @@
 3300209;Araruama (RJ);1994.5;438.6;X;13664.9;6213.7;X;343.3;390.2;43.8;23089
 3300225;Areal (RJ);23.9;43.6;X;2679.8;636.9;X;X;21.1;X;3405.3
 3300233;Armação dos Búzios (RJ);5.2;11.3;X;662.5;25.3;-;X;-;X;704.3
-3300258;Arraial do Cabo (RJ);X;X;-;-;-;-;-;-;-;0
+3300258;Arraial do Cabo (RJ);X;X;0;0;0;0;0;0;0;NA
 3300308;Barra do Piraí (RJ);128.3;716.2;X;17107.7;6959.5;X;238.1;626.1;56.8;25832.7
 3300407;Barra Mansa (RJ);280.4;1527.8;0.4;20915.7;8136.4;189.4;56.3;514.7;81.3;31702.4
 3300456;Belford Roxo (RJ);1.2;4.7;X;16.8;X;-;-;-;X;22.7
@@ -3246,7 +3246,7 @@
 3304805;São Fidélis (RJ);940;1840.4;6.3;16253.9;31339.5;7495.2;508.3;126.6;819.7;59329.9
 3304904;São Gonçalo (RJ);183.7;84.2;1.4;2878.4;206.8;186.9;733.8;7.2;35.5;4317.9
 3305000;São João da Barra (RJ);245.3;1532.1;X;3157.7;809;60.7;X;12.7;-;5817.5
-3305109;São João de Meriti (RJ);-;-;-;-;-;-;-;-;-;0
+3305109;São João de Meriti (RJ);0;0;0;0;0;0;0;0;0;0
 3305133;São José de Ubá (RJ);335.1;413.4;-;12624.3;2253.6;X;153.4;X;238.9;16018.7
 3305158;São José do Vale do Rio Preto (RJ);776.6;1375.7;17.9;2645.7;1326.3;X;X;390.2;627.1;7159.5
 3305208;São Pedro da Aldeia (RJ);147;431.5;14;3971.9;3755.7;111.2;100.2;X;X;8531.5
@@ -3333,7 +3333,7 @@
 3506102;Bebedouro (SP);8143.2;43673.9;93.3;1011.3;1040.6;50.4;628.8;45.9;80.1;54767.5
 3506201;Bento de Abreu (SP);X;15656.2;X;-;6350;-;X;-;-;22006.2
 3506300;Bernardino de Campos (SP);1236.3;9435.1;31.8;731.3;2245.6;X;27.8;572.3;X;14280.2
-3506359;Bertioga (SP);-;-;-;-;-;-;-;-;-;0
+3506359;Bertioga (SP);0;0;0;0;0;0;0;0;0;0
 3506409;Bilac (SP);452.1;6036.3;-;1689;3709.8;X;X;71.2;5.1;11963.5
 3506508;Birigui (SP);1543.4;24206.3;18.4;4705.2;9756.2;116.3;230.5;330.3;142.2;41048.8
 3506607;Biritiba Mirim (SP);144;1657.2;104.9;155.1;X;X;89.6;2103.7;X;4254.5
@@ -3801,7 +3801,7 @@
 3548203;Santo Antônio do Pinhal (SP);66.3;188.5;16;1125.6;1073.3;X;X;114.5;X;2584.2
 3548302;Santo Expedito (SP);55.2;1034.6;-;1839.2;4661.5;X;X;33.8;-;7624.3
 3548401;Santópolis do Aguapeí (SP);247.3;4665.7;-;X;2879.9;329.7;X;X;X;8122.6
-3548500;Santos (SP);X;-;-;-;-;-;-;-;-;0
+3548500;Santos (SP);X;0;0;0;0;0;0;0;0;NA
 3548609;São Bento do Sapucaí (SP);824.8;363.8;9.1;3148.1;5418.7;101.3;25.3;602.2;196.3;10689.6
 3548708;São Bernardo do Campo (SP);5.1;54.1;14.9;7.2;X;-;X;-;X;81.3
 3548807;São Caetano do Sul (SP);X;2.1;X;-;-;-;-;-;-;2.1
@@ -3847,7 +3847,7 @@
 3552551;Suzanápolis (SP);774.5;13750.6;-;2609.7;8952.1;108.7;-;X;X;26195.6
 3552601;Tabapuã (SP);3947.9;18076.7;X;1649.7;834.4;X;X;X;-;24508.7
 3552700;Tabatinga (SP);1725.9;18173.2;X;764.5;217.8;X;9.4;28.2;-;20919
-3552809;Taboão da Serra (SP);X;X;-;X;-;-;-;X;-;0
+3552809;Taboão da Serra (SP);X;X;0;X;0;0;0;X;0;NA
 3552908;Taciba (SP);119.1;26914.8;-;1242.9;11969.6;538.9;X;310.1;X;41095.4
 3553005;Taguaí (SP);811.3;1519.7;X;2382.1;3533.8;X;39.7;108.2;1.8;8396.6
 3553104;Taiaçu (SP);1329.5;8623.3;X;381.7;111.4;-;61;X;X;10506.9
@@ -4755,7 +4755,7 @@
 4307500;Espumoso (RS);64.1;48087.4;X;6587.1;1315.4;X;435.4;154.8;X;56644.2
 4307559;Estação (RS);54.1;6183.7;29.2;267.1;173.9;X;X;71.7;52.3;6832
 4307609;Estância Velha (RS);5.8;142.8;X;316.1;X;35.3;-;606.7;-;1106.7
-4307708;Esteio (RS);-;X;-;-;-;-;-;-;-;0
+4307708;Esteio (RS);0;X;0;0;0;0;0;0;0;NA
 4307807;Estrela (RS);133.8;5901;14.2;1469.7;813.3;44.7;22.2;1398.8;244.5;10042.2
 4307815;Estrela Velha (RS);145.9;12999.3;-;1062.4;1020.5;X;X;221.1;86;15535.2
 4307831;Eugênio de Castro (RS);30.7;27225.1;X;2814.4;1681.5;22.3;35;67;X;31876
@@ -5562,4 +5562,3 @@
 5222203;Vila Boa (GO);16.4;6945.2;-;24808;33688.3;7047.2;X;X;4663.2;77168.3
 5222302;Vila Propício (GO);5336.9;49442.3;50.2;19451.6;60352.4;4598.6;144.5;724.1;1082.5;141183.1
 5300108;Brasília (DF);9304;99561.4;863.5;31613;27750.9;2743.8;5961;5149.8;2169.6;185117
-Fonte: IBGE - Censo Agropecuário;;;;;;;;;;;0
