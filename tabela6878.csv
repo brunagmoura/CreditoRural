@@ -1,4 +1,4 @@
-﻿Município (Código);Município;Produção de lavouras temporárias;Horticultura e floricultura;Produção de lavouras permanentes;Produção de sementes e mudas certificadas;Produção florestal - florestas plantadas;Produção florestal - florestas nativas;Soma
+﻿Município (Código);Município;Produção de lavouras temporárias;Horticultura e floricultura;Produção de lavouras permanentes;Produção de sementes e mudas certificadas;Produção florestal 0 florestas plantadas;Produção florestal 0 florestas nativas;Soma
 1100015;Alta Floresta D'Oeste (RO);4069;113;13621;X;X;91;17894
 1100023;Ariquemes (RO);13575;1028;6578;X;X;-;21181
 1100031;Cabixi (RO);36330;85;635;X;-;X;37050
@@ -151,7 +151,7 @@
 1400605;São Luiz (RR);959;X;14037;-;-;X;14996
 1400704;Uiramutã (RR);8110;114;136;-;X;243;8603
 1500107;Abaetetuba (PA);15880;240;47200;X;136;16741;80197
-1500131;Abel Figueiredo (PA);X;X;-;-;-;-;NA
+1500131;Abel Figueiredo (PA);X;X;0;0;0;0;NA
 1500206;Acará (PA);84485;20;42994;X;7139;7399;142037
 1500305;Afuá (PA);4561;38;14155;-;X;99503;118257
 1500347;Água Azul do Norte (PA);12608;X;443;X;X;-;13051
@@ -166,7 +166,7 @@
 1501006;Aveiro (PA);50223;X;6824;-;545;1693;59285
 1501105;Bagre (PA);16598;0;353;-;X;104168;121119
 1501204;Baião (PA);13799;X;26650;-;567;67;41083
-1501253;Bannach (PA);X;-;-;-;X;-;NA
+1501253;Bannach (PA);X;0;0;0;X;0;NA
 1501303;Barcarena (PA);3800;112;12962;X;X;3392;20266
 1501402;Belém (PA);173;X;4506;-;-;613;5292
 1501451;Belterra (PA);26447;X;894;-;X;258;27599
@@ -257,7 +257,7 @@
 1506203;Salinópolis (PA);535;19;50;-;X;68;672
 1506302;Salvaterra (PA);6411;47;161;-;160;126;6905
 1506351;Santa Bárbara do Pará (PA);2324;94;4999;-;-;X;7417
-1506401;Santa Cruz do Arari (PA);-;X;-;-;-;X;NA
+1506401;Santa Cruz do Arari (PA);0;X;0;0;0;X;NA
 1506500;Santa Izabel do Pará (PA);2700;890;5592;-;X;X;9182
 1506559;Santa Luzia do Pará (PA);7054;101;3038;-;X;1357;11550
 1506583;Santa Maria das Barreiras (PA);169636;-;2400;X;X;-;172036
@@ -279,7 +279,7 @@
 1507706;São Sebastião da Boa Vista (PA);1328;X;4869;-;-;41697;47894
 1507755;Sapucaia (PA);X;-;X;-;2502;X;2502
 1507805;Senador José Porfírio (PA);12453;828;72354;4726;X;9961;100322
-1507904;Soure (PA);-;X;X;-;-;-;NA
+1507904;Soure (PA);0;X;X;0;0;0;NA
 1507953;Tailândia (PA);33258;438;100669;-;X;X;134365
 1507961;Terra Alta (PA);899;X;979;-;-;-;1878
 1507979;Terra Santa (PA);3274;-;X;-;-;X;3274
@@ -322,7 +322,7 @@
 1701903;Araguacema (TO);42863;X;299;-;X;296;43458
 1702000;Araguaçu (TO);32194;X;X;-;-;276;32470
 1702109;Araguaína (TO);19283;455;3171;-;X;478;23387
-1702158;Araguanã (TO);X;X;X;-;-;X;NA
+1702158;Araguanã (TO);X;X;X;0;0;X;NA
 1702208;Araguatins (TO);11244;294;1373;X;X;353;13264
 1702307;Arapoema (TO);19902;X;X;-;-;-;19902
 1702406;Arraias (TO);9034;833;586;X;X;5939;16392
@@ -330,25 +330,25 @@
 1702703;Aurora do Tocantins (TO);15590;-;X;-;-;X;15590
 1702901;Axixá do Tocantins (TO);293;48;X;-;-;X;341
 1703008;Babaçulândia (TO);11906;137;301;-;-;2018;14362
-1703057;Bandeirantes do Tocantins (TO);X;-;X;-;-;-;NA
+1703057;Bandeirantes do Tocantins (TO);X;0;X;0;0;0;NA
 1703073;Barra do Ouro (TO);8205;82;2723;-;-;102;11112
 1703107;Barrolândia (TO);2387;X;X;-;-;-;2387
-1703206;Bernardo Sayão (TO);X;-;X;-;-;-;NA
-1703305;Bom Jesus do Tocantins (TO);X;-;-;-;X;-;NA
+1703206;Bernardo Sayão (TO);X;0;X;0;0;0;NA
+1703305;Bom Jesus do Tocantins (TO);X;0;0;0;X;0;NA
 1703602;Brasilândia do Tocantins (TO);49;15;39;-;-;-;103
 1703701;Brejinho de Nazaré (TO);39337;49;56;-;-;X;39442
 1703800;Buriti do Tocantins (TO);739;6;X;-;-;X;745
 1703826;Cachoeirinha (TO);1055;28;271;-;X;X;1354
 1703842;Campos Lindos (TO);109834;50;X;-;X;350;110234
 1703867;Cariri do Tocantins (TO);17885;253;X;-;-;X;18138
-1703883;Carmolândia (TO);X;X;X;-;-;-;NA
+1703883;Carmolândia (TO);X;X;X;0;0;0;NA
 1703891;Carrasco Bonito (TO);276;X;29;-;-;X;305
 1703909;Caseara (TO);73253;X;X;-;-;-;73253
 1704105;Centenário (TO);32943;X;X;-;X;-;32943
-1704600;Chapada de Areia (TO);X;X;-;-;-;-;NA
+1704600;Chapada de Areia (TO);X;X;0;0;0;0;NA
 1705102;Chapada da Natividade (TO);20626;155;X;-;-;X;20781
 1705508;Colinas do Tocantins (TO);113;118;X;-;-;-;231
-1705557;Combinado (TO);X;X;-;-;-;-;NA
+1705557;Combinado (TO);X;X;0;0;0;0;NA
 1705607;Conceição do Tocantins (TO);7684;-;X;-;X;2154;9838
 1706001;Couto Magalhães (TO);18860;X;X;-;X;513;19373
 1706100;Cristalândia (TO);31309;X;346;-;710;-;32365
@@ -363,7 +363,7 @@
 1707652;Figueirópolis (TO);31891;65;X;-;6626;90;38672
 1707702;Filadélfia (TO);2736;X;X;-;X;0;2736
 1708205;Formoso do Araguaia (TO);109667;-;X;X;-;1341;111008
-1708254;Tabocão (TO);X;X;-;-;-;-;NA
+1708254;Tabocão (TO);X;X;0;0;0;0;NA
 1708304;Goianorte (TO);16873;X;X;-;-;-;16873
 1709005;Goiatins (TO);64146;34;101;X;1797;22030;88108
 1709302;Guaraí (TO);26594;296;X;-;-;-;26890
@@ -372,13 +372,13 @@
 1710508;Itacajá (TO);19743;-;X;-;-;X;19743
 1710706;Itaguatins (TO);2156;70;X;-;-;X;2226
 1710904;Itapiratins (TO);27310;X;X;-;894;1232;29436
-1711100;Itaporã do Tocantins (TO);X;-;X;-;-;-;NA
+1711100;Itaporã do Tocantins (TO);X;0;X;0;0;0;NA
 1711506;Jaú do Tocantins (TO);8485;-;-;X;-;X;8485
-1711803;Juarina (TO);X;X;-;-;X;-;NA
+1711803;Juarina (TO);X;X;0;0;X;0;NA
 1711902;Lagoa da Confusão (TO);95051;8;X;X;2759;X;97818
 1711951;Lagoa do Tocantins (TO);5365;X;X;-;X;X;5365
 1712009;Lajeado (TO);515;74;179;-;X;X;768
-1712157;Lavandeira (TO);X;X;-;-;X;-;NA
+1712157;Lavandeira (TO);X;X;0;0;X;0;NA
 1712405;Lizarda (TO);56710;-;116;-;489;-;57315
 1712454;Luzinópolis (TO);238;217;171;-;X;X;626
 1712504;Marianópolis do Tocantins (TO);42481;264;X;-;X;2587;45332
@@ -395,15 +395,15 @@
 1714880;Nova Olinda (TO);10575;327;1220;-;-;X;12122
 1715002;Nova Rosalândia (TO);8911;X;X;-;-;X;8911
 1715101;Novo Acordo (TO);19205;-;X;X;1331;X;20536
-1715150;Novo Alegre (TO);X;X;-;-;-;-;NA
+1715150;Novo Alegre (TO);X;X;0;0;0;0;NA
 1715259;Novo Jardim (TO);3911;X;X;-;-;X;3911
-1715507;Oliveira de Fátima (TO);X;-;-;-;-;X;NA
+1715507;Oliveira de Fátima (TO);X;0;0;0;0;X;NA
 1715705;Palmeirante (TO);33578;7;X;-;X;X;33585
 1715754;Palmeirópolis (TO);11907;X;X;-;-;1575;13482
 1716109;Paraíso do Tocantins (TO);6268;263;X;-;X;X;6531
 1716208;Paranã (TO);57751;1621;X;-;5322;58351;123045
 1716307;Pau D'Arco (TO);1640;X;X;-;-;-;1640
-1716505;Pedro Afonso (TO);X;X;-;-;-;-;NA
+1716505;Pedro Afonso (TO);X;X;0;0;0;0;NA
 1716604;Peixe (TO);104004;177;X;-;X;1145;105326
 1716653;Pequizeiro (TO);4221;X;X;-;-;-;4221
 1716703;Colméia (TO);1264;X;-;-;X;X;1264
@@ -412,10 +412,10 @@
 1717503;Pium (TO);65701;6382;5427;-;1856;4979;84345
 1717800;Ponte Alta do Bom Jesus (TO);2799;X;X;-;2773;1048;6620
 1717909;Ponte Alta do Tocantins (TO);20816;X;X;-;3781;-;24597
-1718006;Porto Alegre do Tocantins (TO);X;-;-;-;-;-;NA
+1718006;Porto Alegre do Tocantins (TO);X;0;0;0;0;0;NA
 1718204;Porto Nacional (TO);74058;2825;2973;-;776;195;80827
 1718303;Praia Norte (TO);470;X;X;-;-;21;491
-1718402;Presidente Kennedy (TO);-;-;-;-;-;-;NA
+1718402;Presidente Kennedy (TO);0;0;0;0;0;0;0
 1718451;Pugmil (TO);9127;X;-;-;X;X;9127
 1718501;Recursolândia (TO);5597;X;X;-;-;-;5597
 1718550;Riachinho (TO);2653;247;344;-;-;X;3244
@@ -440,7 +440,7 @@
 1720804;Sítio Novo do Tocantins (TO);507;X;X;-;-;285;792
 1720853;Sucupira (TO);15121;X;-;-;-;X;15121
 1720903;Taguatinga (TO);7820;18;72;-;2897;752;11559
-1720937;Taipas do Tocantins (TO);X;X;X;-;-;-;NA
+1720937;Taipas do Tocantins (TO);X;X;X;0;0;0;NA
 1720978;Talismã (TO);44665;-;X;-;-;-;44665
 1721000;Palmas (TO);23675;1198;74;X;139;264;25350
 1721109;Tocantínia (TO);4094;39;30;-;X;1382;5545
@@ -552,7 +552,7 @@
 2105906;Lago Verde (MA);1934;X;-;-;-;2856;4790
 2105922;Lagoa do Mato (MA);6249;X;38;-;343;431;7061
 2105948;Lago dos Rodrigues (MA);1340;X;17;-;-;190;1547
-2105963;Lagoa Grande do Maranhão (MA);X;-;X;-;-;-;NA
+2105963;Lagoa Grande do Maranhão (MA);X;0;X;0;0;0;NA
 2105989;Lajeado Novo (MA);6072;374;860;-;X;X;7306
 2106003;Lima Campos (MA);4608;173;643;-;-;181;5605
 2106102;Loreto (MA);111309;X;1194;-;X;1221;113724
@@ -686,7 +686,7 @@
 2201150;Baixa Grande do Ribeiro (PI);398674;X;35156;-;-;2187;436017
 2201176;Barra D'Alcântara (PI);4746;X;X;-;-;X;4746
 2201200;Barras (PI);9950;47;2221;-;X;1819;14037
-2201309;Barreiras do Piauí (PI);X;-;-;-;-;X;NA
+2201309;Barreiras do Piauí (PI);X;0;0;0;0;X;NA
 2201408;Barro Duro (PI);2998;1;515;X;X;66;3580
 2201507;Batalha (PI);14409;X;2379;-;2894;1542;21224
 2201556;Bela Vista do Piauí (PI);4634;X;X;-;X;-;4634
@@ -938,7 +938,7 @@
 2303907;Chaval (CE);348;X;241;-;-;X;589
 2303931;Choró (CE);9036;75;X;-;-;1326;10437
 2303956;Chorozinho (CE);1339;X;11332;-;X;X;12671
-2304004;Coreaú (CE);X;-;X;-;-;X;NA
+2304004;Coreaú (CE);X;0;X;0;0;X;NA
 2304103;Crateús (CE);29262;226;139;-;-;4076;33703
 2304202;Crato (CE);3636;136;349;-;X;2328;6449
 2304236;Croatá (CE);3111;570;X;-;X;2966;6647
@@ -1077,7 +1077,7 @@
 2400109;Acari (RN);724;X;342;-;X;X;1066
 2400208;Açu (RN);5978;1219;3938;-;X;X;11135
 2400307;Afonso Bezerra (RN);2211;X;1248;-;-;X;3459
-2400406;Água Nova (RN);X;-;-;-;X;-;NA
+2400406;Água Nova (RN);X;0;0;0;X;0;NA
 2400505;Alexandria (RN);685;X;X;-;X;-;685
 2400604;Almino Afonso (RN);1025;X;X;-;-;-;1025
 2400703;Alto do Rodrigues (RN);1529;424;1980;-;-;X;3933
@@ -1089,7 +1089,7 @@
 2401305;Campo Grande (RN);939;308;X;-;420;-;1667
 2401404;Baía Formosa (RN);15805;-;X;-;-;-;15805
 2401453;Baraúna (RN);12134;X;5076;-;X;X;17210
-2401503;Barcelona (RN);X;X;-;-;X;-;NA
+2401503;Barcelona (RN);X;X;0;0;X;0;NA
 2401602;Bento Fernandes (RN);891;39;-;-;-;197;1127
 2401651;Bodó (RN);403;-;109;-;-;-;512
 2401701;Bom Jesus (RN);1663;X;105;-;-;-;1768
@@ -1100,7 +1100,7 @@
 2402105;Campo Redondo (RN);674;X;X;-;X;X;674
 2402204;Canguaretama (RN);4810;X;244;X;-;X;5054
 2402303;Caraúbas (RN);16170;265;X;X;280;342;17057
-2402402;Carnaúba dos Dantas (RN);X;X;X;-;X;-;NA
+2402402;Carnaúba dos Dantas (RN);X;X;X;0;X;0;NA
 2402501;Carnaubais (RN);2049;239;1868;-;-;X;4156
 2402600;Ceará-Mirim (RN);11107;568;5974;-;230;98;17977
 2402709;Cerro Corá (RN);873;X;789;X;-;-;1662
@@ -1109,42 +1109,42 @@
 2403004;Cruzeta (RN);742;X;46;-;X;-;788
 2403103;Currais Novos (RN);422;383;120;-;X;X;925
 2403202;Doutor Severiano (RN);8506;X;X;-;-;257;8763
-2403251;Parnamirim (RN);-;X;X;-;-;-;NA
+2403251;Parnamirim (RN);0;X;X;0;0;0;NA
 2403301;Encanto (RN);1150;X;X;-;-;-;1150
 2403400;Equador (RN);218;X;X;-;531;-;749
 2403509;Espírito Santo (RN);1393;237;X;-;-;-;1630
 2403608;Extremoz (RN);312;148;449;-;-;-;909
 2403707;Felipe Guerra (RN);3183;-;317;-;-;-;3500
-2403756;Fernando Pedroza (RN);X;-;-;-;X;-;NA
+2403756;Fernando Pedroza (RN);X;0;0;0;X;0;NA
 2403806;Florânia (RN);3265;488;136;-;X;X;3889
 2403905;Francisco Dantas (RN);315;X;-;-;X;-;315
 2404002;Frutuoso Gomes (RN);358;X;X;-;-;-;358
 2404101;Galinhos (RN);1666;-;X;-;-;-;1666
 2404200;Goianinha (RN);7603;55;2389;-;-;X;10047
 2404309;Governador Dix-Sept Rosado (RN);9442;245;3194;-;X;X;12881
-2404408;Grossos (RN);X;-;-;-;-;X;NA
+2404408;Grossos (RN);X;0;0;0;0;X;NA
 2404507;Guamaré (RN);870;-;X;-;-;-;870
 2404606;Ielmo Marinho (RN);5946;353;781;-;-;-;7080
 2404705;Ipanguaçu (RN);1050;198;8570;-;X;424;10242
-2404804;Ipueira (RN);X;-;-;-;-;-;NA
-2404853;Itajá (RN);X;X;-;-;-;-;NA
-2404903;Itaú (RN);X;X;X;-;-;-;NA
+2404804;Ipueira (RN);X;0;0;0;0;0;NA
+2404853;Itajá (RN);X;X;0;0;0;0;NA
+2404903;Itaú (RN);X;X;X;0;0;0;NA
 2405009;Jaçanã (RN);X;X;528;-;-;-;528
 2405108;Jandaíra (RN);1400;558;778;-;X;X;2736
-2405207;Janduís (RN);X;X;-;-;X;-;NA
+2405207;Janduís (RN);X;X;0;0;X;0;NA
 2405306;Januário Cicco (RN);6840;X;20;-;-;X;6860
 2405405;Japi (RN);1837;-;-;-;-;-;1837
-2405504;Jardim de Angicos (RN);X;-;-;-;-;X;NA
+2405504;Jardim de Angicos (RN);X;0;0;0;0;X;NA
 2405603;Jardim de Piranhas (RN);430;X;-;-;X;-;430
 2405702;Jardim do Seridó (RN);676;X;-;-;-;X;676
 2405801;João Câmara (RN);4631;1405;299;-;X;275;6610
-2405900;João Dias (RN);X;-;X;-;-;-;NA
-2406007;José da Penha (RN);X;X;-;-;-;-;NA
+2405900;João Dias (RN);X;0;X;0;0;0;NA
+2406007;José da Penha (RN);X;X;0;0;0;0;NA
 2406106;Jucurutu (RN);1127;58;X;-;754;34;1973
 2406155;Jundiá (RN);349;131;X;-;-;-;480
 2406205;Lagoa d'Anta (RN);2156;-;X;-;-;-;2156
 2406304;Lagoa de Pedras (RN);2783;78;139;-;-;X;3000
-2406403;Lagoa de Velhos (RN);X;-;-;-;-;X;NA
+2406403;Lagoa de Velhos (RN);X;0;0;0;0;X;NA
 2406502;Lagoa Nova (RN);2850;37;2486;-;X;-;5373
 2406601;Lagoa Salgada (RN);2353;X;X;-;-;-;2353
 2406700;Lajes (RN);975;X;-;-;X;863;1838
@@ -1152,28 +1152,28 @@
 2406908;Lucrécia (RN);1107;X;X;-;-;-;1107
 2407005;Luís Gomes (RN);1718;X;X;-;-;-;1718
 2407104;Macaíba (RN);5996;650;1223;X;-;-;7869
-2407203;Macau (RN);X;-;-;-;-;-;NA
-2407252;Major Sales (RN);X;-;-;-;X;-;NA
+2407203;Macau (RN);X;0;0;0;0;0;NA
+2407252;Major Sales (RN);X;0;0;0;X;0;NA
 2407302;Marcelino Vieira (RN);900;X;-;-;X;-;900
 2407401;Martins (RN);893;33;X;-;X;X;926
 2407500;Maxaranguape (RN);902;X;3005;-;-;-;3907
 2407609;Messias Targino (RN);40;-;-;-;-;-;40
 2407708;Montanhas (RN);100;X;X;-;-;-;100
 2407807;Monte Alegre (RN);2285;X;388;-;-;-;2673
-2407906;Monte das Gameleiras (RN);X;X;-;-;-;-;NA
+2407906;Monte das Gameleiras (RN);X;X;0;0;0;0;NA
 2408003;Mossoró (RN);24130;432;1949;-;X;602;27113
 2408102;Natal (RN);X;31;X;-;-;X;31
 2408201;Nísia Floresta (RN);1374;38;2005;X;X;X;3417
 2408300;Nova Cruz (RN);4625;182;1061;-;X;X;5868
 2408409;Olho d'Água do Borges (RN);1687;-;-;-;-;38;1725
-2408508;Ouro Branco (RN);X;X;-;-;-;-;NA
+2408508;Ouro Branco (RN);X;X;0;0;0;0;NA
 2408607;Paraná (RN);295;5;-;-;-;-;300
-2408706;Paraú (RN);X;-;-;-;-;-;NA
+2408706;Paraú (RN);X;0;0;0;0;0;NA
 2408805;Parazinho (RN);X;241;X;-;-;-;241
-2408904;Parelhas (RN);X;X;X;-;-;-;NA
+2408904;Parelhas (RN);X;X;X;0;0;0;NA
 2408953;Rio do Fogo (RN);118;X;1099;-;-;-;1217
 2409100;Passa e Fica (RN);1065;-;-;-;X;-;1065
-2409209;Passagem (RN);X;-;X;-;-;-;NA
+2409209;Passagem (RN);X;0;X;0;0;0;NA
 2409308;Patu (RN);1065;X;X;-;-;35;1100
 2409332;Santa Maria (RN);279;X;X;-;X;-;279
 2409407;Pau dos Ferros (RN);1083;X;X;-;-;-;1083
@@ -1182,7 +1182,7 @@
 2409704;Pedro Avelino (RN);2573;-;-;-;X;X;2573
 2409803;Pedro Velho (RN);3670;76;1151;-;X;-;4897
 2409902;Pendências (RN);1219;113;X;-;-;X;1332
-2410009;Pilões (RN);X;-;-;-;X;-;NA
+2410009;Pilões (RN);X;0;0;0;X;0;NA
 2410108;Poço Branco (RN);2856;X;250;-;-;-;3106
 2410207;Portalegre (RN);1085;-;278;-;28;-;1391
 2410256;Porto do Mangue (RN);671;X;196;X;X;-;867
@@ -1190,15 +1190,15 @@
 2410405;Pureza (RN);5874;574;4881;X;X;X;11329
 2410504;Rafael Fernandes (RN);222;X;X;-;X;-;222
 2410603;Rafael Godeiro (RN);603;38;-;-;-;-;641
-2410702;Riacho da Cruz (RN);X;-;-;-;-;-;NA
+2410702;Riacho da Cruz (RN);X;0;0;0;0;0;NA
 2410801;Riacho de Santana (RN);845;118;88;-;-;X;1051
-2410900;Riachuelo (RN);X;X;-;-;X;-;NA
+2410900;Riachuelo (RN);X;X;0;0;X;0;NA
 2411007;Rodolfo Fernandes (RN);1582;-;198;-;-;-;1780
 2411056;Tibau (RN);7883;X;X;-;-;-;7883
 2411106;Ruy Barbosa (RN);507;-;X;-;-;-;507
 2411205;Santa Cruz (RN);3783;X;X;-;X;-;3783
 2411403;Santana do Matos (RN);5222;X;978;-;X;X;6200
-2411429;Santana do Seridó (RN);-;X;-;-;X;X;NA
+2411429;Santana do Seridó (RN);0;X;0;0;X;X;NA
 2411502;Santo Antônio (RN);2610;X;X;-;-;-;2610
 2411601;São Bento do Norte (RN);819;942;X;-;-;-;1761
 2411700;São Bento do Trairí (RN);447;X;X;-;-;-;447
@@ -1207,8 +1207,8 @@
 2412005;São Gonçalo do Amarante (RN);1791;149;44;-;-;-;1984
 2412104;São João do Sabugi (RN);1589;257;X;-;200;-;2046
 2412203;São José de Mipibu (RN);4295;585;1198;-;X;-;6078
-2412302;São José do Campestre (RN);X;-;-;-;X;-;NA
-2412401;São José do Seridó (RN);X;-;-;-;X;X;NA
+2412302;São José do Campestre (RN);X;0;0;0;X;0;NA
+2412401;São José do Seridó (RN);X;0;0;0;X;X;NA
 2412500;São Miguel (RN);2190;21;399;-;X;X;2610
 2412559;São Miguel do Gostoso (RN);2755;2015;2789;-;-;X;7559
 2412609;São Paulo do Potengi (RN);1878;59;X;-;X;54;1991
@@ -1217,7 +1217,7 @@
 2412906;São Tomé (RN);363;1009;X;-;X;X;1372
 2413003;São Vicente (RN);2303;137;94;-;X;X;2534
 2413102;Senador Elói de Souza (RN);3121;X;X;-;X;-;3121
-2413201;Senador Georgino Avelino (RN);X;-;X;-;-;-;NA
+2413201;Senador Georgino Avelino (RN);X;0;X;0;0;0;NA
 2413300;Serra de São Bento (RN);1559;X;356;-;X;X;1915
 2413359;Serra do Mel (RN);3727;-;29694;X;6465;-;39886
 2413409;Serra Negra do Norte (RN);3775;X;-;-;X;-;3775
@@ -1228,7 +1228,7 @@
 2413805;Taboleiro Grande (RN);421;-;-;-;-;-;421
 2413904;Taipu (RN);3831;98;X;-;-;-;3929
 2414001;Tangará (RN);2692;-;-;-;X;-;2692
-2414100;Tenente Ananias (RN);X;-;-;-;X;-;NA
+2414100;Tenente Ananias (RN);X;0;0;0;X;0;NA
 2414159;Tenente Laurentino Cruz (RN);777;-;1310;-;-;-;2087
 2414209;Tibau do Sul (RN);X;-;55;-;-;-;55
 2414308;Timbaúba dos Batistas (RN);119;X;-;-;-;X;119
@@ -1246,7 +1246,7 @@
 2500304;Alagoa Grande (PB);5800;182;282;-;X;564;6828
 2500403;Alagoa Nova (PB);1058;492;3208;X;X;265;5023
 2500502;Alagoinha (PB);1823;75;272;-;X;X;2170
-2500536;Alcantil (PB);X;-;-;-;-;X;NA
+2500536;Alcantil (PB);X;0;0;0;0;X;NA
 2500577;Algodão de Jandaíra (PB);1596;-;X;-;-;X;1596
 2500601;Alhandra (PB);5141;854;1260;X;X;-;7255
 2500700;São João do Rio do Peixe (PB);2299;134;435;-;-;X;2868
@@ -1256,7 +1256,7 @@
 2500908;Arara (PB);1756;X;121;X;132;185;2194
 2501005;Araruna (PB);4174;10;775;-;-;327;5286
 2501104;Areia (PB);6057;420;3709;-;X;409;10595
-2501153;Areia de Baraúnas (PB);X;X;-;-;-;-;NA
+2501153;Areia de Baraúnas (PB);X;X;0;0;0;0;NA
 2501203;Areial (PB);1140;X;-;-;-;X;1140
 2501302;Aroeiras (PB);3391;X;-;X;-;108;3499
 2501351;Assunção (PB);1057;43;X;-;-;X;1100
@@ -1268,7 +1268,7 @@
 2501708;Barra de São Miguel (PB);1239;130;X;X;-;X;1369
 2501807;Bayeux (PB);67;X;X;-;-;-;67
 2501906;Belém (PB);1259;X;156;-;-;X;1415
-2502003;Belém do Brejo do Cruz (PB);X;X;-;-;-;-;NA
+2502003;Belém do Brejo do Cruz (PB);X;X;0;0;0;0;NA
 2502052;Bernardino Batista (PB);526;-;-;-;-;-;526
 2502102;Boa Ventura (PB);1037;X;X;-;-;53;1090
 2502151;Boa Vista (PB);1249;-;X;-;X;1308;2557
@@ -1282,14 +1282,14 @@
 2502904;Brejo dos Santos (PB);568;X;-;-;X;-;568
 2503001;Caaporã (PB);9395;881;507;-;-;-;10783
 2503100;Cabaceiras (PB);4057;542;X;-;-;X;4599
-2503209;Cabedelo (PB);-;X;X;-;-;-;NA
+2503209;Cabedelo (PB);0;X;X;0;0;0;NA
 2503308;Cachoeira dos Índios (PB);2427;X;144;-;-;X;2571
 2503407;Cacimba de Areia (PB);424;1015;-;-;-;-;1439
 2503506;Cacimba de Dentro (PB);2901;X;X;-;-;648;3549
 2503555;Cacimbas (PB);1845;X;199;-;X;1154;3198
 2503605;Caiçara (PB);1541;X;-;-;-;X;1541
 2503704;Cajazeiras (PB);3058;47;243;-;-;X;3348
-2503753;Cajazeirinhas (PB);X;X;X;-;-;X;NA
+2503753;Cajazeirinhas (PB);X;X;X;0;0;X;NA
 2503803;Caldas Brandão (PB);396;X;-;-;-;-;396
 2503902;Camalaú (PB);1033;271;X;-;X;-;1304
 2504009;Campina Grande (PB);3075;43;X;-;209;606;3933
@@ -1315,11 +1315,11 @@
 2505303;Curral Velho (PB);403;-;X;-;-;X;403
 2505352;Damião (PB);4063;X;137;-;X;379;4579
 2505402;Desterro (PB);1836;76;X;-;X;319;2231
-2505501;Vista Serrana (PB);X;X;-;-;-;-;NA
+2505501;Vista Serrana (PB);X;X;0;0;0;0;NA
 2505600;Diamante (PB);2773;X;X;-;-;1423;4196
 2505709;Dona Inês (PB);2584;X;132;-;X;106;2822
 2505808;Duas Estradas (PB);820;X;-;-;-;-;820
-2505907;Emas (PB);X;-;X;-;-;X;NA
+2505907;Emas (PB);X;0;X;0;0;X;NA
 2506004;Esperança (PB);3489;206;245;-;-;108;4048
 2506103;Fagundes (PB);2049;X;X;-;-;66;2115
 2506202;Frei Martinho (PB);398;X;334;-;X;-;732
@@ -1345,12 +1345,12 @@
 2508109;Lagoa (PB);4058;-;-;-;-;-;4058
 2508208;Lagoa de Dentro (PB);2631;X;137;-;X;-;2768
 2508307;Lagoa Seca (PB);1432;876;766;26;11;37;3148
-2508406;Lastro (PB);X;X;-;-;-;-;NA
+2508406;Lastro (PB);X;X;0;0;0;0;NA
 2508505;Livramento (PB);3868;X;-;-;-;X;3868
 2508554;Logradouro (PB);195;X;X;-;-;-;195
 2508604;Lucena (PB);3545;X;215;-;-;-;3760
 2508703;Mãe d'Água (PB);1873;96;X;-;X;648;2617
-2508802;Malta (PB);X;X;-;-;-;-;NA
+2508802;Malta (PB);X;X;0;0;0;0;NA
 2508901;Mamanguape (PB);30147;540;1226;-;-;-;31913
 2509008;Manaíra (PB);5928;X;X;-;-;-;5928
 2509057;Marcação (PB);2289;22;132;-;-;11;2454
@@ -1375,7 +1375,7 @@
 2510501;Olivedos (PB);2966;X;-;X;-;66;3032
 2510600;Ouro Velho (PB);1088;295;X;-;-;X;1383
 2510659;Parari (PB);X;-;X;-;685;-;685
-2510709;Passagem (PB);X;-;-;-;-;X;NA
+2510709;Passagem (PB);X;0;0;0;0;X;NA
 2510808;Patos (PB);2172;118;X;-;-;X;2290
 2510907;Paulista (PB);293;372;X;-;-;X;665
 2511004;Pedra Branca (PB);710;355;X;-;-;X;1065
@@ -1390,7 +1390,7 @@
 2511905;Pitimbu (PB);1717;1110;1651;X;-;X;4478
 2512002;Pocinhos (PB);3806;6;524;-;-;2905;7241
 2512036;Poço Dantas (PB);1123;-;113;-;-;-;1236
-2512077;Poço de José de Moura (PB);X;-;X;-;-;-;NA
+2512077;Poço de José de Moura (PB);X;0;X;0;0;0;NA
 2512101;Pombal (PB);2604;582;1000;-;-;X;4186
 2512200;Prata (PB);2535;1947;35;-;-;178;4695
 2512309;Princesa Isabel (PB);3941;X;X;-;-;410;4351
@@ -1402,7 +1402,7 @@
 2512747;Riachão (PB);708;-;X;-;-;X;708
 2512754;Riachão do Bacamarte (PB);391;X;X;-;-;30;421
 2512762;Riachão do Poço (PB);560;217;37;-;-;X;814
-2512788;Riacho de Santo Antônio (PB);-;-;-;-;-;-;NA
+2512788;Riacho de Santo Antônio (PB);0;0;0;0;0;0;0
 2512804;Riacho dos Cavalos (PB);602;20;-;-;X;X;622
 2512903;Rio Tinto (PB);35557;142;469;-;49;15;36232
 2513000;Salgadinho (PB);339;X;X;-;-;X;339
@@ -1419,9 +1419,9 @@
 2513802;Santa Teresinha (PB);907;X;X;-;-;192;1099
 2513851;Santo André (PB);814;X;13;-;X;638;1465
 2513901;São Bento (PB);48;X;-;-;-;32;80
-2513927;São Bentinho (PB);X;-;X;-;-;-;NA
+2513927;São Bentinho (PB);X;0;X;0;0;0;NA
 2513943;São Domingos do Cariri (PB);269;26;X;-;-;X;295
-2513968;São Domingos (PB);X;X;X;-;-;-;NA
+2513968;São Domingos (PB);X;X;X;0;0;0;NA
 2513984;São Francisco (PB);529;X;X;-;-;X;529
 2514008;São João do Cariri (PB);1272;17;X;-;4193;X;5482
 2514107;São João do Tigre (PB);6225;X;366;-;-;X;6591
@@ -1432,7 +1432,7 @@
 2514503;São José de Piranhas (PB);3022;132;70;-;-;360;3584
 2514552;São José de Princesa (PB);1581;X;X;-;-;148;1729
 2514602;São José do Bonfim (PB);338;X;X;-;-;X;338
-2514651;São José do Brejo do Cruz (PB);X;-;-;-;-;-;NA
+2514651;São José do Brejo do Cruz (PB);X;0;0;0;0;0;NA
 2514701;São José do Sabugi (PB);278;47;187;-;-;-;512
 2514800;São José dos Cordeiros (PB);3038;-;-;-;X;X;3038
 2514909;São Mamede (PB);3792;X;-;-;X;-;3792
@@ -1461,7 +1461,7 @@
 2516805;Triunfo (PB);1033;4;X;-;-;-;1037
 2516904;Uiraúna (PB);1092;76;X;X;X;X;1168
 2517001;Umbuzeiro (PB);986;X;X;X;-;90;1076
-2517100;Várzea (PB);X;X;-;-;-;-;NA
+2517100;Várzea (PB);X;X;0;0;0;0;NA
 2517209;Vieirópolis (PB);849;X;X;-;-;-;849
 2517407;Zabelê (PB);929;-;X;-;-;X;929
 2600054;Abreu e Lima (PE);405;128;283;-;-;-;816
@@ -1500,7 +1500,7 @@
 2603207;Caetés (PE);8047;X;-;-;X;105;8152
 2603306;Calçado (PE);3081;344;21;-;-;-;3446
 2603405;Calumbi (PE);2667;X;110;-;X;108;2885
-2603454;Camaragibe (PE);X;X;X;-;-;-;NA
+2603454;Camaragibe (PE);X;X;X;0;0;0;NA
 2603504;Camocim de São Félix (PE);415;543;X;-;-;X;958
 2603603;Camutanga (PE);1876;144;652;-;-;-;2672
 2603702;Canhotinho (PE);4310;149;1123;-;X;-;5582
@@ -1524,7 +1524,7 @@
 2605202;Escada (PE);27733;X;884;-;-;X;28617
 2605301;Exu (PE);6138;X;158;-;X;-;6296
 2605400;Feira Nova (PE);1969;X;X;-;-;-;1969
-2605459;Fernando de Noronha (PE);-;X;X;-;-;-;NA
+2605459;Fernando de Noronha (PE);0;X;X;0;0;0;NA
 2605509;Ferreiros (PE);5743;220;47;-;-;-;6010
 2605608;Flores (PE);23516;5;194;-;X;X;23715
 2605707;Floresta (PE);16307;428;859;-;980;X;18574
@@ -1642,7 +1642,7 @@
 2615706;Triunfo (PE);3116;209;1326;X;X;X;4651
 2615805;Tupanatinga (PE);6857;X;507;-;225;X;7589
 2615904;Tuparetama (PE);1402;137;X;-;X;-;1539
-2616001;Venturosa (PE);X;-;X;-;-;-;NA
+2616001;Venturosa (PE);X;0;X;0;0;0;NA
 2616100;Verdejante (PE);4727;225;156;X;1387;X;6495
 2616183;Vertente do Lério (PE);289;X;X;-;-;-;289
 2616209;Vertentes (PE);1971;38;X;-;270;X;2279
@@ -1705,16 +1705,16 @@
 2705002;Mata Grande (AL);11908;83;1120;1066;-;X;14177
 2705101;Matriz de Camaragibe (AL);10946;X;107;-;X;-;11053
 2705200;Messias (AL);9939;14;139;-;X;-;10092
-2705309;Minador do Negrão (AL);X;-;-;-;-;-;NA
+2705309;Minador do Negrão (AL);X;0;0;0;0;0;NA
 2705408;Monteirópolis (AL);1177;-;X;-;-;-;1177
 2705507;Murici (AL);9258;78;1333;-;11;-;10680
 2705606;Novo Lino (AL);5723;X;564;-;-;-;6287
 2705705;Olho d'Água das Flores (AL);2564;37;X;-;-;X;2601
 2705804;Olho d'Água do Casado (AL);4014;-;X;-;-;-;4014
-2705903;Olho d'Água Grande (AL);X;X;-;-;-;-;NA
+2705903;Olho d'Água Grande (AL);X;X;0;0;0;0;NA
 2706000;Olivença (AL);3050;-;X;-;-;-;3050
 2706109;Ouro Branco (AL);2774;-;-;-;-;-;2774
-2706208;Palestina (AL);X;-;X;-;-;-;NA
+2706208;Palestina (AL);X;0;X;0;0;0;NA
 2706307;Palmeira dos Índios (AL);4881;X;700;X;-;-;5581
 2706406;Pão de Açúcar (AL);19059;X;164;-;26;X;19249
 2706422;Pariconha (AL);1676;-;23;-;53;-;1752
@@ -1760,7 +1760,7 @@
 2800670;Boquim (SE);2250;126;2639;-;-;-;5015
 2800704;Brejo Grande (SE);X;-;4250;-;-;X;4250
 2801009;Campo do Brito (SE);2614;140;X;-;-;-;2754
-2801108;Canhoba (SE);X;X;-;-;-;-;NA
+2801108;Canhoba (SE);X;X;0;0;0;0;NA
 2801207;Canindé de São Francisco (SE);6317;693;X;-;X;X;7010
 2801306;Capela (SE);9825;34;214;-;X;-;10073
 2801405;Carira (SE);17504;-;X;-;-;-;17504
@@ -1770,7 +1770,7 @@
 2801900;Cumbe (SE);2289;-;X;-;-;-;2289
 2802007;Divina Pastora (SE);1133;X;13;-;X;X;1146
 2802106;Estância (SE);2805;94;6582;-;70;562;10113
-2802205;Feira Nova (SE);X;-;X;-;-;-;NA
+2802205;Feira Nova (SE);X;0;X;0;0;0;NA
 2802304;Frei Paulo (SE);10728;-;X;-;-;X;10728
 2802403;Gararu (SE);8014;X;X;-;-;-;8014
 2802502;General Maynard (SE);200;X;155;-;X;-;355
@@ -1801,7 +1801,7 @@
 2804904;Pacatuba (SE);614;41;8603;-;X;X;9258
 2805000;Pedra Mole (SE);1753;-;-;-;-;-;1753
 2805109;Pedrinhas (SE);247;X;723;-;-;X;970
-2805208;Pinhão (SE);X;X;X;-;-;-;NA
+2805208;Pinhão (SE);X;X;X;0;0;0;NA
 2805307;Pirambu (SE);689;21;3848;-;-;781;5339
 2805406;Poço Redondo (SE);13175;801;449;-;X;-;14425
 2805505;Poço Verde (SE);12386;X;6;-;X;-;12392
@@ -1819,7 +1819,7 @@
 2806701;São Cristóvão (SE);2665;304;1860;-;2057;X;6886
 2806800;São Domingos (SE);982;X;164;-;-;X;1146
 2806909;São Francisco (SE);287;X;-;-;-;-;287
-2807006;São Miguel do Aleixo (SE);X;X;-;-;-;-;NA
+2807006;São Miguel do Aleixo (SE);X;X;0;0;0;0;NA
 2807105;Simão Dias (SE);13845;251;X;-;-;-;14096
 2807204;Siriri (SE);5793;X;455;-;-;-;6248
 2807303;Telha (SE);161;X;X;-;-;-;161
@@ -2051,7 +2051,7 @@
 2918704;Lafaiete Coutinho (BA);2915;615;3045;-;-;512;7087
 2918753;Lagoa Real (BA);5785;264;178;-;-;15;6242
 2918803;Laje (BA);12212;525;11111;32;X;580;24460
-2918902;Lajedão (BA);X;X;-;-;X;-;NA
+2918902;Lajedão (BA);X;X;0;0;X;0;NA
 2919009;Lajedinho (BA);5454;32;149;X;X;X;5635
 2919058;Lajedo do Tabocal (BA);4127;X;4632;X;-;-;8759
 2919108;Lamarão (BA);1795;X;X;-;-;1147;2942
@@ -2066,7 +2066,7 @@
 2919801;Macaúbas (BA);21483;256;1093;X;1001;835;24668
 2919900;Macururé (BA);X;X;285;-;9962;228;10475
 2919959;Maetinga (BA);4701;220;-;-;30;1212;6163
-2920007;Maiquinique (BA);X;X;X;-;-;-;NA
+2920007;Maiquinique (BA);X;X;X;0;0;0;NA
 2920106;Mairi (BA);7543;251;X;154;X;4529;12477
 2920205;Malhada (BA);18393;332;14439;X;1102;709;34975
 2920304;Malhada de Pedras (BA);8560;X;337;X;781;185;9863
@@ -2275,7 +2275,7 @@
 3102852;Angelândia (MG);1117;54;12680;X;895;93;14839
 3102902;Antônio Carlos (MG);1323;1202;X;-;X;-;2525
 3103009;Antônio Dias (MG);886;101;X;-;26583;-;27570
-3103108;Antônio Prado de Minas (MG);X;-;X;-;-;-;NA
+3103108;Antônio Prado de Minas (MG);X;0;X;0;0;0;NA
 3103207;Araçaí (MG);2656;81;X;-;X;X;2737
 3103306;Aracitaba (MG);444;-;X;-;X;-;444
 3103405;Araçuaí (MG);12896;307;2608;X;2863;2811;21485
@@ -2305,7 +2305,7 @@
 3105608;Barbacena (MG);4205;4862;1460;X;1215;X;11742
 3105707;Barra Longa (MG);2400;167;X;-;686;X;3253
 3105905;Barroso (MG);185;X;X;-;X;-;185
-3106002;Bela Vista de Minas (MG);X;X;X;-;X;-;NA
+3106002;Bela Vista de Minas (MG);X;X;X;0;X;0;NA
 3106101;Belmiro Braga (MG);1824;X;1258;-;X;X;3082
 3106200;Belo Horizonte (MG);X;16;X;-;-;-;16
 3106309;Belo Oriente (MG);1294;X;121;-;X;-;1415
@@ -2346,7 +2346,7 @@
 3109402;Buritizeiro (MG);33704;X;3563;-;164342;X;201609
 3109451;Cabeceira Grande (MG);22288;X;X;-;-;-;22288
 3109501;Cabo Verde (MG);1592;X;22061;-;X;-;23653
-3109600;Cachoeira da Prata (MG);X;X;-;-;-;-;NA
+3109600;Cachoeira da Prata (MG);X;X;0;0;0;0;NA
 3109709;Cachoeira de Minas (MG);6354;1037;2579;-;X;-;9970
 3109808;Cachoeira Dourada (MG);5939;X;X;X;-;-;5939
 3109907;Caetanópolis (MG);1319;305;13;-;1067;-;2704
@@ -2411,7 +2411,7 @@
 3115359;Catas Altas (MG);770;X;799;-;6832;-;8401
 3115409;Catas Altas da Noruega (MG);1360;X;73;-;1416;-;2849
 3115458;Catuji (MG);2268;158;957;X;X;-;3383
-3115474;Catuti (MG);X;-;-;-;X;-;NA
+3115474;Catuti (MG);X;0;0;0;X;0;NA
 3115508;Caxambu (MG);1069;X;976;-;-;-;2045
 3115607;Cedro do Abaeté (MG);900;-;-;-;-;-;900
 3115706;Central de Minas (MG);275;X;95;-;-;-;370
@@ -2438,7 +2438,7 @@
 3117702;Conceição do Rio Verde (MG);6710;20;6181;-;X;X;12911
 3117801;Conceição dos Ouros (MG);2744;X;2830;-;X;-;5574
 3117836;Cônego Marinho (MG);8065;X;X;-;313;1150;9528
-3117876;Confins (MG);X;X;-;-;-;-;NA
+3117876;Confins (MG);X;X;0;0;0;0;NA
 3117900;Congonhal (MG);2574;X;1133;-;-;-;3707
 3118007;Congonhas (MG);743;87;X;-;46;X;876
 3118106;Congonhas do Norte (MG);3327;23;316;-;X;X;3666
@@ -2463,7 +2463,7 @@
 3119955;Córrego Fundo (MG);1758;X;X;-;444;-;2202
 3120003;Córrego Novo (MG);1240;X;X;X;X;X;1240
 3120102;Couto de Magalhães de Minas (MG);7661;X;132;-;7557;X;15350
-3120151;Crisólita (MG);X;X;-;-;-;-;NA
+3120151;Crisólita (MG);X;X;0;0;0;0;NA
 3120201;Cristais (MG);5338;X;13300;X;1493;-;20131
 3120300;Cristália (MG);6544;X;792;-;X;-;7336
 3120409;Cristiano Otoni (MG);1499;112;X;-;X;-;1611
@@ -2477,7 +2477,7 @@
 3121001;Datas (MG);2136;775;212;-;X;X;3123
 3121100;Delfim Moreira (MG);1150;139;196;-;5044;-;6529
 3121209;Delfinópolis (MG);18327;X;4836;-;349;-;23512
-3121258;Delta (MG);X;X;X;-;-;-;NA
+3121258;Delta (MG);X;X;X;0;0;0;NA
 3121308;Descoberto (MG);1188;X;130;-;X;-;1318
 3121407;Desterro de Entre Rios (MG);3261;X;738;X;374;X;4373
 3121506;Desterro do Melo (MG);562;X;1069;X;X;-;1631
@@ -2492,7 +2492,7 @@
 3122355;Divisa Alegre (MG);1773;X;X;-;X;-;1773
 3122405;Divisa Nova (MG);3505;X;6120;-;X;-;9625
 3122454;Divisópolis (MG);1716;X;5317;-;X;-;7033
-3122470;Dom Bosco (MG);X;-;X;-;-;-;NA
+3122470;Dom Bosco (MG);X;0;X;0;0;0;NA
 3122504;Dom Cavati (MG);767;X;188;-;X;-;955
 3122603;Dom Joaquim (MG);472;X;-;-;X;-;472
 3122702;Dom Silvério (MG);1086;41;108;-;1465;-;2700
@@ -2502,7 +2502,7 @@
 3123106;Dores de Guanhães (MG);2229;X;X;-;X;-;2229
 3123205;Dores do Indaiá (MG);2100;X;X;-;X;-;2100
 3123304;Dores do Turvo (MG);1767;X;262;-;1213;X;3242
-3123403;Doresópolis (MG);X;-;X;-;-;-;NA
+3123403;Doresópolis (MG);X;0;X;0;0;0;NA
 3123502;Douradoquara (MG);1406;-;X;-;X;-;1406
 3123528;Durandé (MG);X;X;11810;-;X;-;11810
 3123601;Elói Mendes (MG);2829;71;21612;X;360;-;24872
@@ -2516,11 +2516,11 @@
 3124302;Espinosa (MG);8305;209;3371;X;691;X;12576
 3124401;Espírito Santo do Dourado (MG);2562;3303;1941;-;65;-;7871
 3124500;Estiva (MG);672;2790;X;-;X;-;3462
-3124609;Estrela Dalva (MG);X;-;X;-;-;-;NA
+3124609;Estrela Dalva (MG);X;0;X;0;0;0;NA
 3124708;Estrela do Indaiá (MG);2148;X;775;-;X;-;2923
 3124807;Estrela do Sul (MG);7470;X;4296;-;X;-;11766
 3124906;Eugenópolis (MG);1130;148;5083;-;266;-;6627
-3125002;Ewbank da Câmara (MG);X;-;-;-;X;-;NA
+3125002;Ewbank da Câmara (MG);X;0;0;0;X;0;NA
 3125101;Extrema (MG);766;458;138;-;288;X;1650
 3125200;Fama (MG);689;61;2621;-;-;-;3371
 3125309;Faria Lemos (MG);199;X;3806;-;X;-;4005
@@ -2548,17 +2548,17 @@
 3127073;Fruta de Leite (MG);4296;138;531;-;14341;3691;22997
 3127107;Frutal (MG);93037;143;10002;-;136;10;103328
 3127206;Funilândia (MG);2534;397;X;-;-;-;2931
-3127305;Galiléia (MG);X;-;X;-;-;X;NA
+3127305;Galiléia (MG);X;0;X;0;0;X;NA
 3127339;Gameleiras (MG);2188;632;X;-;1490;-;4310
 3127354;Glaucilândia (MG);820;X;X;-;-;-;820
-3127370;Goiabeira (MG);X;-;X;-;-;-;NA
+3127370;Goiabeira (MG);X;0;X;0;0;0;NA
 3127388;Goianá (MG);289;23;47;-;-;-;359
 3127404;Gonçalves (MG);442;567;1151;-;385;X;2545
 3127503;Gonzaga (MG);692;98;94;-;1752;X;2636
 3127602;Gouveia (MG);3545;463;X;-;X;-;4008
 3127701;Governador Valadares (MG);6302;2089;776;-;X;-;9167
 3127800;Grão Mogol (MG);27796;825;2567;-;56761;X;87949
-3127909;Grupiara (MG);X;-;X;-;-;-;NA
+3127909;Grupiara (MG);X;0;X;0;0;0;NA
 3128006;Guanhães (MG);3447;179;X;-;13309;348;17283
 3128105;Guapé (MG);3617;323;18099;X;913;-;22952
 3128204;Guaraciaba (MG);8069;X;440;-;3149;-;11658
@@ -2595,7 +2595,7 @@
 3130804;Ingaí (MG);6168;X;2348;-;1338;-;9854
 3130903;Inhapim (MG);1920;872;12094;-;152;-;15038
 3131000;Inhaúma (MG);3522;X;X;-;-;-;3522
-3131109;Inimutaba (MG);X;-;-;-;X;-;NA
+3131109;Inimutaba (MG);X;0;0;0;X;0;NA
 3131158;Ipaba (MG);78;X;80;-;X;-;158
 3131208;Ipanema (MG);2811;X;1775;-;X;-;4586
 3131307;Ipatinga (MG);14;X;380;-;2210;50;2654
@@ -2730,9 +2730,9 @@
 3142106;Miradouro (MG);1018;71;5476;-;X;-;6565
 3142205;Miraí (MG);451;X;2612;-;410;-;3473
 3142254;Miravânia (MG);3209;54;X;-;8117;X;11380
-3142304;Moeda (MG);X;-;X;-;-;-;NA
+3142304;Moeda (MG);X;0;X;0;0;0;NA
 3142403;Moema (MG);2064;X;-;-;X;-;2064
-3142502;Monjolos (MG);X;-;X;-;-;-;NA
+3142502;Monjolos (MG);X;0;X;0;0;0;NA
 3142601;Monsenhor Paulo (MG);1494;6;8320;X;X;-;9820
 3142700;Montalvânia (MG);5170;40;1247;-;7197;X;13654
 3142809;Monte Alegre de Minas (MG);56275;255;6260;X;295;372;63457
@@ -2796,10 +2796,10 @@
 3147204;Paraguaçu (MG);5602;204;16121;X;1206;-;23133
 3147303;Paraisópolis (MG);1691;558;1013;-;400;X;3662
 3147402;Paraopeba (MG);6564;1491;389;-;7622;X;16066
-3147501;Passabém (MG);X;-;X;-;X;-;NA
+3147501;Passabém (MG);X;0;X;0;X;0;NA
 3147600;Passa Quatro (MG);1027;59;362;-;2704;-;4152
 3147709;Passa Tempo (MG);2200;994;191;-;800;X;4185
-3147808;Passa Vinte (MG);X;X;X;-;X;-;NA
+3147808;Passa Vinte (MG);X;X;X;0;X;0;NA
 3147907;Passos (MG);36486;322;6497;X;X;-;43305
 3147956;Patis (MG);5937;X;X;-;X;-;5937
 3148004;Patos de Minas (MG);47528;856;17110;X;1292;-;66786
@@ -2819,7 +2819,7 @@
 3149200;Pedrinópolis (MG);17906;X;200;-;X;-;18106
 3149309;Pedro Leopoldo (MG);2329;X;X;-;-;-;2329
 3149408;Pedro Teixeira (MG);382;X;X;-;X;-;382
-3149507;Pequeri (MG);-;X;-;-;X;-;NA
+3149507;Pequeri (MG);0;X;0;0;X;0;NA
 3149606;Pequi (MG);562;309;X;-;X;-;871
 3149705;Perdigão (MG);2355;200;X;-;X;-;2555
 3149804;Perdizes (MG);87826;187;15895;X;468;-;104376
@@ -2869,9 +2869,9 @@
 3153608;Prudente de Morais (MG);557;71;X;-;X;X;628
 3153707;Quartel Geral (MG);1950;-;X;-;X;-;1950
 3153806;Queluzito (MG);386;X;-;-;X;-;386
-3153905;Raposos (MG);X;X;X;-;X;-;NA
+3153905;Raposos (MG);X;X;X;0;X;0;NA
 3154002;Raul Soares (MG);4587;88;12413;-;1073;X;18161
-3154101;Recreio (MG);X;-;X;-;-;-;NA
+3154101;Recreio (MG);X;0;X;0;0;0;NA
 3154150;Reduto (MG);27;67;7463;-;-;-;7557
 3154200;Resende Costa (MG);4189;86;X;-;3733;-;8008
 3154309;Resplendor (MG);2310;X;X;-;-;-;2310
@@ -2894,7 +2894,7 @@
 3155900;Rio Preto (MG);1541;-;-;X;X;-;1541
 3156007;Rio Vermelho (MG);4687;-;573;-;X;642;5902
 3156106;Ritápolis (MG);4035;-;X;-;4829;-;8864
-3156205;Rochedo de Minas (MG);X;-;-;-;X;-;NA
+3156205;Rochedo de Minas (MG);X;0;0;0;X;0;NA
 3156304;Rodeiro (MG);X;195;253;-;X;-;448
 3156403;Romaria (MG);14181;X;13475;-;X;-;27656
 3156452;Rosário da Limeira (MG);12;X;2097;-;X;-;2109
@@ -2909,7 +2909,7 @@
 3157252;Santa Bárbara do Leste (MG);136;361;7808;X;X;-;8305
 3157278;Santa Bárbara do Monte Verde (MG);1489;X;X;-;2634;-;4123
 3157302;Santa Bárbara do Tugúrio (MG);239;61;1260;-;X;-;1560
-3157336;Santa Cruz de Minas (MG);-;-;-;-;-;-;NA
+3157336;Santa Cruz de Minas (MG);0;0;0;0;0;0;0
 3157377;Santa Cruz de Salinas (MG);7617;X;93;X;574;X;8284
 3157401;Santa Cruz do Escalvado (MG);3880;10;X;X;X;-;3890
 3157500;Santa Efigênia de Minas (MG);275;-;90;-;X;122;487
@@ -2924,7 +2924,7 @@
 3158300;Santana da Vargem (MG);2067;82;11240;X;X;-;13389
 3158409;Santana de Cataguases (MG);56;14;30;-;446;-;546
 3158508;Santana de Pirapama (MG);4134;2196;792;-;X;X;7122
-3158607;Santana do Deserto (MG);X;-;-;-;X;-;NA
+3158607;Santana do Deserto (MG);X;0;0;0;X;0;NA
 3158706;Santana do Garambéu (MG);1242;-;X;-;X;-;1242
 3158805;Santana do Jacaré (MG);X;-;1745;-;X;-;1745
 3158904;Santana do Manhuaçu (MG);468;129;17191;X;X;-;17788
@@ -2942,7 +2942,7 @@
 3159902;Santo Antônio do Amparo (MG);885;X;18993;-;6116;-;25994
 3160009;Santo Antônio do Aventureiro (MG);2800;219;293;-;264;-;3576
 3160108;Santo Antônio do Grama (MG);1375;126;X;-;X;-;1501
-3160207;Santo Antônio do Itambé (MG);X;-;X;-;X;-;NA
+3160207;Santo Antônio do Itambé (MG);X;0;X;0;X;0;NA
 3160306;Santo Antônio do Jacinto (MG);3493;76;36;X;X;-;3605
 3160405;Santo Antônio do Monte (MG);3165;286;656;-;4220;-;8327
 3160454;Santo Antônio do Retiro (MG);6965;X;1307;-;X;609;8881
@@ -2975,21 +2975,21 @@
 3162559;São João do Manhuaçu (MG);57;7;8713;X;-;-;8777
 3162575;São João do Manteninha (MG);173;X;2226;-;-;-;2399
 3162609;São João do Oriente (MG);97;2068;X;-;-;-;2165
-3162658;São João do Pacuí (MG);X;-;X;-;X;-;NA
+3162658;São João do Pacuí (MG);X;0;X;0;X;0;NA
 3162708;São João do Paraíso (MG);19272;124;15434;X;44193;93;79116
 3162807;São João Evangelista (MG);1681;94;115;-;4865;-;6755
 3162906;São João Nepomuceno (MG);1073;X;384;-;491;X;1948
 3162922;São Joaquim de Bicas (MG);X;530;X;-;-;-;530
 3162948;São José da Barra (MG);7380;X;3358;X;-;X;10738
-3162955;São José da Lapa (MG);X;X;-;-;-;-;NA
+3162955;São José da Lapa (MG);X;X;0;0;0;0;NA
 3163003;São José da Safira (MG);160;X;X;-;X;-;160
 3163102;São José da Varginha (MG);1525;1148;X;-;X;-;2673
 3163201;São José do Alegre (MG);X;X;687;-;-;-;687
-3163300;São José do Divino (MG);X;X;-;-;-;-;NA
+3163300;São José do Divino (MG);X;X;0;0;0;0;NA
 3163409;São José do Goiabal (MG);2279;22;X;-;X;-;2301
 3163508;São José do Jacuri (MG);1043;129;173;-;971;-;2316
 3163607;São José do Mantimento (MG);236;-;1814;-;X;X;2050
-3163706;São Lourenço (MG);X;-;X;-;X;-;NA
+3163706;São Lourenço (MG);X;0;X;0;X;0;NA
 3163805;São Miguel do Anta (MG);1202;112;5052;X;601;-;6967
 3163904;São Pedro da União (MG);3851;13;12721;X;113;-;16698
 3164001;São Pedro dos Ferros (MG);6936;X;120;-;X;-;7056
@@ -3014,7 +3014,7 @@
 3165552;Setubinha (MG);6397;183;5084;X;4007;-;15671
 3165560;Sem-Peixe (MG);1595;X;X;-;246;-;1841
 3165578;Senador Amaral (MG);792;2802;122;-;X;X;3716
-3165602;Senador Cortes (MG);X;X;X;-;-;-;NA
+3165602;Senador Cortes (MG);X;X;X;0;0;0;NA
 3165701;Senador Firmino (MG);1342;-;X;-;X;-;1342
 3165800;Senador José Bento (MG);X;-;1216;-;-;-;1216
 3165909;Senador Modestino Gonçalves (MG);7063;65;358;-;20502;-;27988
@@ -3024,7 +3024,7 @@
 3166303;Sericita (MG);145;X;7503;-;X;-;7648
 3166402;Seritinga (MG);631;-;X;-;X;-;631
 3166501;Serra Azul de Minas (MG);3323;-;X;-;X;X;3323
-3166600;Serra da Saudade (MG);X;-;-;-;X;-;NA
+3166600;Serra da Saudade (MG);X;0;0;0;X;0;NA
 3166709;Serra dos Aimorés (MG);3660;X;X;-;X;-;3660
 3166808;Serra do Salitre (MG);25228;105;32636;X;336;-;58305
 3166907;Serrania (MG);4013;X;8522;X;X;-;12535
@@ -3047,7 +3047,7 @@
 3168408;Tarumirim (MG);9047;607;287;-;X;-;9941
 3168507;Teixeiras (MG);1636;210;3103;-;X;X;4949
 3168606;Teófilo Otoni (MG);7928;2234;4123;1;1427;-;15713
-3168705;Timóteo (MG);X;-;X;-;-;-;NA
+3168705;Timóteo (MG);X;0;X;0;0;0;NA
 3168804;Tiradentes (MG);58;X;X;-;-;-;58
 3168903;Tiros (MG);10998;X;5029;-;3518;X;19545
 3169000;Tocantins (MG);1937;627;1688;-;X;-;4252
@@ -3087,13 +3087,13 @@
 3171204;Vespasiano (MG);X;35;X;-;-;-;35
 3171303;Viçosa (MG);2325;456;3109;-;536;X;6426
 3171402;Vieiras (MG);337;16;1634;-;51;-;2038
-3171501;Mathias Lobato (MG);X;X;-;-;-;-;NA
+3171501;Mathias Lobato (MG);X;X;0;0;0;0;NA
 3171600;Virgem da Lapa (MG);3222;105;48;69;X;1398;4842
 3171709;Virgínia (MG);3575;162;2303;-;610;X;6650
 3171808;Virginópolis (MG);3110;X;230;-;5917;-;9257
 3171907;Virgolândia (MG);607;31;589;X;X;-;1227
 3172004;Visconde do Rio Branco (MG);2057;143;1233;-;181;-;3614
-3172103;Volta Grande (MG);X;-;-;-;X;-;NA
+3172103;Volta Grande (MG);X;0;0;0;X;0;NA
 3172202;Wenceslau Braz (MG);183;25;X;X;X;-;208
 3200102;Afonso Cláudio (ES);2621;4547;37497;X;473;-;45138
 3200136;Águia Branca (ES);301;43;16377;X;397;X;17118
@@ -3172,23 +3172,23 @@
 3205150;Vila Pavão (ES);176;58;16115;X;X;-;16349
 3205176;Vila Valério (ES);149;284;30004;X;3740;-;34177
 3205200;Vila Velha (ES);174;X;739;X;137;-;1050
-3205309;Vitória (ES);-;-;X;-;-;-;NA
+3205309;Vitória (ES);0;0;X;0;0;0;NA
 3300100;Angra dos Reis (RJ);373;73;2371;-;X;78;2895
 3300159;Aperibé (RJ);135;519;X;-;-;-;654
 3300209;Araruama (RJ);1499;70;4044;X;X;X;5613
 3300225;Areal (RJ);X;X;51;-;-;-;51
-3300233;Armação dos Búzios (RJ);X;X;X;X;-;-;NA
-3300258;Arraial do Cabo (RJ);X;-;X;-;-;-;NA
+3300233;Armação dos Búzios (RJ);X;X;X;X;0;0;NA
+3300258;Arraial do Cabo (RJ);X;0;X;0;0;0;NA
 3300308;Barra do Piraí (RJ);1048;207;218;-;1125;-;2598
 3300407;Barra Mansa (RJ);3484;1033;141;-;X;X;4658
-3300456;Belford Roxo (RJ);X;X;-;X;-;-;NA
+3300456;Belford Roxo (RJ);X;X;0;X;0;0;NA
 3300506;Bom Jardim (RJ);875;3727;3813;X;496;25;8936
 3300605;Bom Jesus do Itabapoana (RJ);498;190;2152;-;X;-;2840
 3300704;Cabo Frio (RJ);1316;X;681;-;-;X;1997
 3300803;Cachoeiras de Macacu (RJ);5344;1566;7303;X;336;X;14549
 3300902;Cambuci (RJ);574;2651;462;-;X;-;3687
 3300936;Carapebus (RJ);1044;126;225;-;X;-;1395
-3300951;Comendador Levy Gasparian (RJ);X;X;X;-;X;-;NA
+3300951;Comendador Levy Gasparian (RJ);X;X;X;0;X;0;NA
 3301009;Campos dos Goytacazes (RJ);61400;2422;2371;X;334;X;66527
 3301108;Cantagalo (RJ);3280;96;420;X;872;-;4668
 3301157;Cardoso Moreira (RJ);3930;X;X;-;-;-;3930
@@ -3206,7 +3206,7 @@
 3302056;Italva (RJ);910;X;X;-;X;-;910
 3302106;Itaocara (RJ);2379;2088;214;17;X;-;4698
 3302205;Itaperuna (RJ);398;1045;261;-;X;-;1704
-3302254;Itatiaia (RJ);X;-;X;-;-;-;NA
+3302254;Itatiaia (RJ);X;0;X;0;0;0;NA
 3302270;Japeri (RJ);660;58;120;X;-;-;838
 3302304;Laje do Muriaé (RJ);X;41;203;-;X;-;244
 3302403;Macaé (RJ);3569;179;3878;-;X;-;7626
@@ -3246,7 +3246,7 @@
 3304805;São Fidélis (RJ);2609;1789;1019;X;X;X;5417
 3304904;São Gonçalo (RJ);121;X;273;-;X;-;394
 3305000;São João da Barra (RJ);2192;563;X;X;-;-;2755
-3305109;São João de Meriti (RJ);-;-;-;-;-;-;NA
+3305109;São João de Meriti (RJ);0;0;0;0;0;0;0
 3305133;São José de Ubá (RJ);130;1213;X;X;-;-;1343
 3305158;São José do Vale do Rio Preto (RJ);1438;4195;2806;-;529;-;8968
 3305208;São Pedro da Aldeia (RJ);663;X;100;-;X;-;763
@@ -3276,7 +3276,7 @@
 3500907;Altair (SP);6418;X;9582;-;X;-;16000
 3501004;Altinópolis (SP);28075;X;18886;-;X;-;46961
 3501103;Alto Alegre (SP);12144;X;673;-;X;-;12817
-3501152;Alumínio (SP);-;-;X;-;X;-;NA
+3501152;Alumínio (SP);0;0;X;0;X;0;NA
 3501202;Álvares Florence (SP);10658;88;2155;-;X;-;12901
 3501301;Álvares Machado (SP);1213;1143;X;-;X;-;2356
 3501400;Álvaro de Carvalho (SP);39;X;3105;-;X;-;3144
@@ -3290,10 +3290,10 @@
 3502200;Angatuba (SP);16989;1410;X;X;33460;-;51859
 3502309;Anhembi (SP);5636;X;3206;X;10993;X;19835
 3502408;Anhumas (SP);8860;509;X;-;X;-;9369
-3502507;Aparecida (SP);X;-;-;-;X;-;NA
+3502507;Aparecida (SP);X;0;0;0;X;0;NA
 3502606;Aparecida d'Oeste (SP);2338;X;2469;X;-;-;4807
 3502705;Apiaí (SP);5011;4778;X;-;19693;-;29482
-3502754;Araçariguama (SP);X;X;X;-;-;-;NA
+3502754;Araçariguama (SP);X;X;X;0;0;0;NA
 3502804;Araçatuba (SP);45506;695;2061;-;X;-;48262
 3502903;Araçoiaba da Serra (SP);1970;560;145;X;173;X;2848
 3503000;Aramina (SP);16270;X;X;-;-;-;16270
@@ -3303,7 +3303,7 @@
 3503307;Araras (SP);43602;259;4233;X;X;-;48094
 3503356;Arco-Íris (SP);10651;X;599;-;-;-;11250
 3503406;Arealva (SP);10702;5917;2323;-;456;X;19398
-3503505;Areias (SP);X;X;X;-;X;-;NA
+3503505;Areias (SP);X;X;X;0;X;0;NA
 3503604;Areiópolis (SP);5674;X;X;-;79;-;5753
 3503703;Ariranha (SP);12150;X;395;-;-;-;12545
 3503802;Artur Nogueira (SP);4639;563;2619;-;X;-;7821
@@ -3331,9 +3331,9 @@
 3505906;Batatais (SP);55144;217;4819;-;X;-;60180
 3506003;Bauru (SP);4504;344;3010;-;10447;X;18305
 3506102;Bebedouro (SP);50074;123;9411;X;435;X;60043
-3506201;Bento de Abreu (SP);X;X;-;-;-;-;NA
+3506201;Bento de Abreu (SP);X;X;0;0;0;0;NA
 3506300;Bernardino de Campos (SP);11508;213;1785;-;X;X;13506
-3506359;Bertioga (SP);-;-;X;-;-;-;NA
+3506359;Bertioga (SP);0;0;X;0;0;0;NA
 3506409;Bilac (SP);6266;X;810;-;X;-;7076
 3506508;Birigui (SP);27951;317;393;X;X;-;28661
 3506607;Biritiba Mirim (SP);59;2722;539;-;X;-;3320
@@ -3343,7 +3343,7 @@
 3507001;Boituva (SP);7562;77;205;-;X;-;7844
 3507100;Bom Jesus dos Perdões (SP);53;149;X;-;X;-;202
 3507159;Bom Sucesso de Itararé (SP);661;X;-;-;4398;-;5059
-3507209;Borá (SP);X;X;-;-;X;-;NA
+3507209;Borá (SP);X;X;0;0;X;0;NA
 3507308;Boracéia (SP);7126;30;50;-;-;-;7206
 3507407;Borborema (SP);34998;145;3092;-;X;-;38235
 3507456;Borebi (SP);2809;75;2245;-;18173;-;23302
@@ -3442,12 +3442,12 @@
 3515608;Fernando Prestes (SP);12554;X;3932;-;-;X;16486
 3515657;Fernão (SP);865;X;1974;-;516;-;3355
 3515707;Ferraz de Vasconcelos (SP);24;55;-;-;X;-;79
-3515806;Flora Rica (SP);X;-;X;-;-;-;NA
+3515806;Flora Rica (SP);X;0;X;0;0;0;NA
 3515905;Floreal (SP);6457;X;814;-;X;-;7271
 3516002;Flórida Paulista (SP);24640;223;680;-;X;-;25543
 3516101;Florínea (SP);13754;X;X;-;-;-;13754
 3516200;Franca (SP);11671;114;17167;-;166;-;29118
-3516309;Francisco Morato (SP);-;X;X;-;-;-;NA
+3516309;Francisco Morato (SP);0;X;X;0;0;0;NA
 3516408;Franco da Rocha (SP);68;254;84;-;X;-;406
 3516507;Gabriel Monteiro (SP);6422;X;504;-;X;-;6926
 3516606;Gália (SP);3418;X;10330;-;X;-;13748
@@ -3472,13 +3472,13 @@
 3518404;Guaratinguetá (SP);3193;475;267;-;X;-;3935
 3518503;Guareí (SP);5805;136;16;-;18909;-;24866
 3518602;Guariba (SP);22496;14;-;-;-;-;22510
-3518701;Guarujá (SP);X;X;-;-;-;-;NA
+3518701;Guarujá (SP);X;X;0;0;0;0;NA
 3518800;Guarulhos (SP);14;241;X;-;X;-;255
 3518859;Guatapará (SP);20592;126;X;-;X;-;20718
 3518909;Guzolândia (SP);2779;X;1667;3187;X;-;7633
 3519006;Herculândia (SP);21308;322;584;X;X;-;22214
 3519055;Holambra (SP);623;1800;X;-;-;-;2423
-3519071;Hortolândia (SP);X;X;-;-;-;-;NA
+3519071;Hortolândia (SP);X;X;0;0;0;0;NA
 3519105;Iacanga (SP);24497;278;2874;-;1197;-;28846
 3519204;Iacri (SP);10132;54;3161;-;72;-;13419
 3519253;Iaras (SP);8722;269;13789;-;10153;X;32933
@@ -3493,8 +3493,8 @@
 3520103;Igarapava (SP);28334;135;1004;-;X;-;29473
 3520202;Igaratá (SP);X;111;X;-;6057;-;6168
 3520301;Iguape (SP);2535;2513;8730;X;4490;X;18268
-3520400;Ilhabela (SP);0;X;X;-;-;-;NA
-3520426;Ilha Comprida (SP);X;X;-;-;-;X;NA
+3520400;Ilhabela (SP);0;X;X;0;0;0;NA
+3520426;Ilha Comprida (SP);X;X;0;0;0;X;NA
 3520442;Ilha Solteira (SP);27188;247;673;-;X;-;28108
 3520509;Indaiatuba (SP);4907;188;4411;-;-;-;9506
 3520608;Indiana (SP);591;428;X;-;X;-;1019
@@ -3518,7 +3518,7 @@
 3522208;Itapecerica da Serra (SP);X;463;X;-;X;-;463
 3522307;Itapetininga (SP);42704;4326;13570;-;33869;-;94469
 3522406;Itapeva (SP);73858;1204;1989;-;39934;-;116985
-3522505;Itapevi (SP);X;X;-;-;-;-;NA
+3522505;Itapevi (SP);X;X;0;0;0;0;NA
 3522604;Itapira (SP);10466;637;3930;-;X;-;15033
 3522653;Itapirapuã Paulista (SP);743;-;X;-;18362;-;19105
 3522703;Itápolis (SP);59917;646;15124;X;X;-;75687
@@ -3636,7 +3636,7 @@
 3533106;Nova Guataporanga (SP);X;X;228;-;-;-;228
 3533205;Nova Independência (SP);15835;X;X;-;-;-;15835
 3533254;Novais (SP);6867;X;452;-;-;-;7319
-3533304;Nova Luzitânia (SP);X;X;-;-;-;-;NA
+3533304;Nova Luzitânia (SP);X;X;0;0;0;0;NA
 3533403;Nova Odessa (SP);297;17;-;-;-;-;314
 3533502;Novo Horizonte (SP);51841;69;11378;-;X;-;63288
 3533601;Nuporanga (SP);22015;X;X;-;-;-;22015
@@ -3677,7 +3677,7 @@
 3536802;Pedra Bela (SP);1363;802;98;-;1400;X;3663
 3536901;Pedranópolis (SP);X;X;2027;X;X;-;2027
 3537008;Pedregulho (SP);7332;X;28548;-;X;-;35880
-3537107;Pedreira (SP);X;X;X;-;X;-;NA
+3537107;Pedreira (SP);X;X;X;0;X;0;NA
 3537156;Pedrinhas Paulista (SP);10607;-;-;-;-;-;10607
 3537206;Pedro de Toledo (SP);63;X;3343;-;X;-;3406
 3537305;Penápolis (SP);37889;751;863;-;573;-;40076
@@ -3691,20 +3691,20 @@
 3538105;Pindorama (SP);9921;41;1719;-;X;-;11681
 3538204;Pinhalzinho (SP);152;590;249;-;411;-;1402
 3538303;Piquerobi (SP);1354;475;249;419;368;-;2865
-3538501;Piquete (SP);X;-;X;-;X;-;NA
+3538501;Piquete (SP);X;0;X;0;X;0;NA
 3538600;Piracaia (SP);414;289;1203;-;4698;X;6604
 3538709;Piracicaba (SP);62571;629;4207;-;X;-;67407
 3538808;Piraju (SP);11800;254;4298;-;X;-;16352
 3538907;Pirajuí (SP);30551;2755;5266;-;X;-;38572
 3539004;Pirangi (SP);13639;X;4263;X;X;-;17902
-3539103;Pirapora do Bom Jesus (SP);X;X;-;-;X;-;NA
+3539103;Pirapora do Bom Jesus (SP);X;X;0;0;X;0;NA
 3539202;Pirapozinho (SP);22664;599;93;-;115;-;23471
 3539301;Pirassununga (SP);44738;486;5330;-;X;-;50554
 3539400;Piratininga (SP);3303;427;2463;-;X;-;6193
 3539509;Pitangueiras (SP);30684;29;142;X;X;-;30855
 3539608;Planalto (SP);19244;X;1422;-;-;-;20666
 3539707;Platina (SP);21943;46;X;-;X;-;21989
-3539806;Poá (SP);-;X;-;-;-;-;NA
+3539806;Poá (SP);0;X;0;0;0;0;NA
 3539905;Poloni (SP);5709;X;1580;-;-;-;7289
 3540002;Pompéia (SP);31137;75;917;-;X;-;32129
 3540101;Pongaí (SP);6290;68;222;-;X;X;6580
@@ -3743,12 +3743,12 @@
 3543006;Ribeirão Branco (SP);5463;4537;X;-;18157;-;28157
 3543105;Ribeirão Corrente (SP);X;X;7446;-;-;-;7446
 3543204;Ribeirão do Sul (SP);17573;X;386;-;X;-;17959
-3543238;Ribeirão dos Índios (SP);X;X;-;-;-;-;NA
+3543238;Ribeirão dos Índios (SP);X;X;0;0;0;0;NA
 3543253;Ribeirão Grande (SP);1641;314;648;-;2363;-;4966
 3543303;Ribeirão Pires (SP);X;29;-;-;-;-;29
 3543402;Ribeirão Preto (SP);28318;248;213;-;-;X;28779
 3543501;Riversul (SP);3525;73;575;-;805;-;4978
-3543600;Rifaina (SP);X;-;X;-;-;-;NA
+3543600;Rifaina (SP);X;0;X;0;0;0;NA
 3543709;Rincão (SP);8339;16;X;-;X;-;8355
 3543808;Rinópolis (SP);8702;992;1525;-;X;-;11219
 3543907;Rio Claro (SP);10907;514;6087;X;916;-;18424
@@ -3801,7 +3801,7 @@
 3548203;Santo Antônio do Pinhal (SP);213;512;357;-;X;-;1082
 3548302;Santo Expedito (SP);X;83;-;-;-;-;83
 3548401;Santópolis do Aguapeí (SP);5407;X;X;-;-;-;5407
-3548500;Santos (SP);-;-;X;-;-;-;NA
+3548500;Santos (SP);0;0;X;0;0;0;NA
 3548609;São Bento do Sapucaí (SP);570;269;1995;X;2546;-;5380
 3548708;São Bernardo do Campo (SP);102;113;-;-;-;-;215
 3548807;São Caetano do Sul (SP);-;4;-;-;-;-;4
@@ -3828,7 +3828,7 @@
 3550704;São Sebastião (SP);X;X;65;-;-;-;65
 3550803;São Sebastião da Grama (SP);X;267;11192;X;X;-;11459
 3550902;São Simão (SP);21462;120;1055;-;X;-;22637
-3551009;São Vicente (SP);-;X;X;-;-;-;NA
+3551009;São Vicente (SP);0;X;X;0;0;0;NA
 3551108;Sarapuí (SP);2879;170;1497;X;7768;-;12314
 3551207;Sarutaiá (SP);2118;90;1764;-;369;-;4341
 3551306;Sebastianópolis do Sul (SP);5070;61;1195;X;X;-;6326
@@ -3847,7 +3847,7 @@
 3552551;Suzanápolis (SP);11357;X;691;-;X;-;12048
 3552601;Tabapuã (SP);20405;58;3602;X;X;-;24065
 3552700;Tabatinga (SP);19243;664;1083;-;X;-;20990
-3552809;Taboão da Serra (SP);X;-;X;-;-;-;NA
+3552809;Taboão da Serra (SP);X;0;X;0;0;0;NA
 3552908;Taciba (SP);29910;X;478;-;X;-;30388
 3553005;Taguaí (SP);1647;X;2395;-;X;-;4042
 3553104;Taiaçu (SP);9772;24;1268;-;-;-;11064
@@ -3893,7 +3893,7 @@
 3556354;Vargem (SP);1889;205;30;X;720;X;2844
 3556404;Vargem Grande do Sul (SP);7282;486;4575;-;X;-;12343
 3556453;Vargem Grande Paulista (SP);-;344;-;-;X;-;344
-3556503;Várzea Paulista (SP);X;X;X;-;-;-;NA
+3556503;Várzea Paulista (SP);X;X;X;0;0;0;NA
 3556602;Vera Cruz (SP);X;115;4913;-;X;-;5028
 3556701;Vinhedo (SP);X;144;459;-;X;-;603
 3556800;Viradouro (SP);18510;11;976;-;-;-;19497
@@ -4119,7 +4119,7 @@
 4115457;Marquinho (PR);8677;110;X;-;X;-;8787
 4115507;Marumbi (PR);10833;X;94;-;X;-;10927
 4115606;Matelândia (PR);18459;166;64;-;1497;-;20186
-4115705;Matinhos (PR);-;X;X;-;-;-;NA
+4115705;Matinhos (PR);0;X;X;0;0;0;NA
 4115739;Mato Rico (PR);14327;20;27;-;X;X;14374
 4115754;Mauá da Serra (PR);2626;299;194;-;1928;-;5047
 4115804;Medianeira (PR);16875;73;35;-;X;X;16983
@@ -4227,7 +4227,7 @@
 4123303;Santa Cruz de Monte Castelo (PR);9151;X;59;-;-;X;9210
 4123402;Santa Fé (PR);16499;410;803;-;X;-;17712
 4123501;Santa Helena (PR);26859;248;13;-;X;-;27120
-4123600;Santa Inês (PR);X;X;-;-;-;-;NA
+4123600;Santa Inês (PR);X;X;0;0;0;0;NA
 4123709;Santa Isabel do Ivaí (PR);7540;37;X;-;289;-;7866
 4123808;Santa Izabel do Oeste (PR);17562;21;X;-;287;-;17870
 4123824;Santa Lúcia (PR);7330;X;X;X;X;-;7330
@@ -4329,7 +4329,7 @@
 4201802;Atalanta (SC);5124;305;X;-;762;-;6191
 4201901;Aurora (SC);8698;143;X;-;2394;-;11235
 4201950;Balneário Arroio do Silva (SC);22;0;X;-;2244;-;2266
-4202008;Balneário Camboriú (SC);-;X;X;-;-;-;NA
+4202008;Balneário Camboriú (SC);0;X;X;0;0;0;NA
 4202057;Balneário Barra do Sul (SC);119;3;146;-;624;-;892
 4202073;Balneário Gaivota (SC);1005;X;171;-;X;-;1176
 4202081;Bandeirante (SC);2686;X;X;-;420;X;3106
@@ -4341,7 +4341,7 @@
 4202305;Biguaçu (SC);929;813;X;-;X;-;1742
 4202404;Blumenau (SC);1818;X;708;-;2090;X;4616
 4202438;Bocaina do Sul (SC);5306;362;340;-;13996;642;20646
-4202453;Bombinhas (SC);X;-;X;-;-;-;NA
+4202453;Bombinhas (SC);X;0;X;0;0;0;NA
 4202503;Bom Jardim da Serra (SC);4632;X;13961;-;536;X;19129
 4202537;Bom Jesus (SC);4774;X;X;X;X;X;4774
 4202578;Bom Jesus do Oeste (SC);3793;-;-;-;X;-;3793
@@ -4363,7 +4363,7 @@
 4203709;Canelinha (SC);1831;5;211;-;1996;X;4043
 4203808;Canoinhas (SC);57632;368;2527;X;17203;2572;80302
 4203907;Capinzal (SC);8283;X;X;-;2019;-;10302
-4203956;Capivari de Baixo (SC);X;X;-;-;-;-;NA
+4203956;Capivari de Baixo (SC);X;X;0;0;0;0;NA
 4204004;Catanduvas (SC);1797;X;X;-;3098;42;4937
 4204103;Caxambu do Sul (SC);5813;16;X;-;348;-;6177
 4204152;Celso Ramos (SC);5767;X;420;-;2520;-;8707
@@ -4628,7 +4628,7 @@
 4301503;Augusto Pestana (RS);19675;48;X;X;X;-;19723
 4301552;Áurea (RS);9517;68;1080;-;163;-;10828
 4301602;Bagé (RS);101865;176;385;-;10906;X;113332
-4301636;Balneário Pinhal (RS);X;-;-;-;X;-;NA
+4301636;Balneário Pinhal (RS);X;0;0;0;X;0;NA
 4301651;Barão (RS);2152;264;175;X;2254;-;4845
 4301701;Barão de Cotegipe (RS);14140;X;1027;-;573;-;15740
 4301750;Barão do Triunfo (RS);20960;143;X;-;3902;X;25005
@@ -4659,7 +4659,7 @@
 4302808;Caçapava do Sul (RS);61032;100;286;X;7457;X;68875
 4302907;Cacequi (RS);84037;X;426;-;X;-;84463
 4303004;Cachoeira do Sul (RS);194701;294;2577;X;30489;550;228611
-4303103;Cachoeirinha (RS);X;X;-;-;-;-;NA
+4303103;Cachoeirinha (RS);X;X;0;0;0;0;NA
 4303202;Cacique Doble (RS);15726;X;143;-;X;-;15869
 4303301;Caibaté (RS);17460;X;X;-;X;-;17460
 4303400;Caiçara (RS);9874;2;X;X;219;X;10095
@@ -4680,7 +4680,7 @@
 4304606;Canoas (RS);X;79;-;-;-;-;79
 4304614;Canudos do Vale (RS);2391;X;160;-;468;-;3019
 4304622;Capão Bonito do Sul (RS);36211;X;X;-;X;186;36397
-4304630;Capão da Canoa (RS);X;-;-;-;X;-;NA
+4304630;Capão da Canoa (RS);X;0;0;0;X;0;NA
 4304655;Capão do Cipó (RS);70961;X;-;X;-;X;70961
 4304663;Capão do Leão (RS);31623;X;-;-;X;-;31623
 4304671;Capivari do Sul (RS);21492;X;-;-;X;-;21492
@@ -4704,7 +4704,7 @@
 4305355;Charqueadas (RS);10383;9;134;X;X;-;10526
 4305371;Charrua (RS);15451;X;129;-;X;-;15580
 4305405;Chiapetta (RS);35298;X;X;X;30;-;35328
-4305439;Chuí (RS);X;X;-;-;-;-;NA
+4305439;Chuí (RS);X;X;0;0;0;0;NA
 4305447;Chuvisca (RS);13573;X;-;-;914;X;14487
 4305454;Cidreira (RS);4738;X;-;-;X;-;4738
 4305504;Ciríaco (RS);18167;69;X;-;X;-;18236
@@ -4755,7 +4755,7 @@
 4307500;Espumoso (RS);59362;X;60;X;125;-;59547
 4307559;Estação (RS);6751;48;X;-;X;-;6799
 4307609;Estância Velha (RS);389;X;X;-;637;-;1026
-4307708;Esteio (RS);X;-;-;-;-;-;NA
+4307708;Esteio (RS);X;0;0;0;0;0;NA
 4307807;Estrela (RS);3390;68;75;-;889;X;4422
 4307815;Estrela Velha (RS);17793;X;-;X;X;-;17793
 4307831;Eugênio de Castro (RS);32812;X;X;-;X;X;32812
@@ -4801,7 +4801,7 @@
 4310108;Igrejinha (RS);2486;62;227;-;296;X;3071
 4310207;Ijuí (RS);43917;456;144;X;43;X;44560
 4310306;Ilópolis (RS);899;X;7232;-;X;-;8131
-4310330;Imbé (RS);-;-;-;-;-;-;NA
+4310330;Imbé (RS);0;0;0;0;0;0;0
 4310363;Imigrante (RS);1630;37;182;-;261;X;2110
 4310405;Independência (RS);26733;X;12;X;49;24;26818
 4310413;Inhacorá (RS);8544;X;X;-;-;-;8544
@@ -4836,7 +4836,7 @@
 4311627;Lindolfo Collor (RS);661;X;X;-;737;-;1398
 4311643;Linha Nova (RS);964;838;166;-;1635;-;3603
 4311700;Machadinho (RS);15713;X;650;-;286;-;16649
-4311718;Maçambará (RS);X;-;-;-;X;-;NA
+4311718;Maçambará (RS);X;0;0;0;X;0;NA
 4311734;Mampituba (RS);1358;X;3153;-;-;X;4511
 4311759;Manoel Viana (RS);58564;38;X;-;X;-;58602
 4311775;Maquiné (RS);2397;2174;1219;-;141;X;5931
@@ -5094,7 +5094,7 @@
 4323705;Vista Gaúcha (RS);4153;-;X;-;X;X;4153
 4323754;Vitória das Missões (RS);15615;X;X;-;250;-;15865
 4323770;Westfália (RS);831;43;X;-;429;-;1303
-4323804;Xangri-lá (RS);X;X;-;-;-;-;NA
+4323804;Xangri0lá (RS);X;X;0;0;0;0;NA
 5000203;Água Clara (MS);X;7;X;-;133561;-;133568
 5000252;Alcinópolis (MS);9218;76;68;-;5907;-;15269
 5000609;Amambai (MS);78121;42;80;-;X;-;78243
@@ -5115,7 +5115,7 @@
 5002407;Caarapó (MS);124912;94;X;-;X;X;125006
 5002605;Camapuã (MS);31618;57;80;4342;X;-;36097
 5002704;Campo Grande (MS);82336;1384;1403;X;4961;X;90084
-5002803;Caracol (MS);X;X;X;-;-;-;NA
+5002803;Caracol (MS);X;X;X;0;0;0;NA
 5002902;Cassilândia (MS);12495;397;6817;X;651;X;20360
 5002951;Chapadão do Sul (MS);153240;46;702;4302;1309;-;159599
 5003108;Corguinho (MS);2786;X;X;-;1488;-;4274
@@ -5154,7 +5154,7 @@
 5006259;Novo Horizonte do Sul (MS);16359;X;X;-;X;-;16359
 5006275;Paraíso das Águas (MS);114291;78;805;9350;X;-;124524
 5006309;Paranaíba (MS);7135;43;5151;-;11017;-;23346
-5006358;Paranhos (MS);X;-;-;-;-;X;NA
+5006358;Paranhos (MS);X;0;0;0;0;X;NA
 5006408;Pedro Gomes (MS);18867;X;226;X;-;-;19093
 5006606;Ponta Porã (MS);315809;186;404;-;X;-;316399
 5006903;Porto Murtinho (MS);14087;X;178;-;X;-;14265
@@ -5183,8 +5183,8 @@
 5100508;Alto Paraguai (MT);12578;60;462;-;-;-;13100
 5100607;Alto Taquari (MT);101146;X;X;-;-;-;101146
 5100805;Apiacás (MT);6908;X;44;-;X;13079;20031
-5101001;Araguaiana (MT);X;-;-;X;-;-;NA
-5101209;Araguainha (MT);X;-;-;X;-;-;NA
+5101001;Araguaiana (MT);X;0;0;X;0;0;NA
+5101209;Araguainha (MT);X;0;0;X;0;0;NA
 5101258;Araputanga (MT);1070;13;X;-;-;-;1083
 5101308;Arenápolis (MT);3275;60;X;-;-;-;3335
 5101407;Aripuanã (MT);19264;X;18238;-;X;142697;180199
@@ -5266,7 +5266,7 @@
 5106455;Planalto da Serra (MT);57347;X;X;-;-;-;57347
 5106505;Poconé (MT);15763;1062;3638;X;X;-;20463
 5106653;Pontal do Araguaia (MT);852;339;149;-;X;X;1340
-5106703;Ponte Branca (MT);-;-;X;-;-;-;NA
+5106703;Ponte Branca (MT);0;0;X;0;0;0;NA
 5106752;Pontes e Lacerda (MT);42202;121;322;-;X;X;42645
 5106778;Porto Alegre do Norte (MT);70252;X;X;-;-;-;70252
 5106802;Porto dos Gaúchos (MT);375536;86;1314;X;X;X;376936
@@ -5278,7 +5278,7 @@
 5107107;São José dos Quatro Marcos (MT);1324;202;854;-;X;-;2380
 5107156;Reserva do Cabaçal (MT);X;X;-;-;26613;-;26613
 5107180;Ribeirão Cascalheira (MT);253505;15;404;X;X;X;253924
-5107198;Ribeirãozinho (MT);X;X;-;-;-;-;NA
+5107198;Ribeirãozinho (MT);X;X;0;0;0;0;NA
 5107206;Rio Branco (MT);86;-;-;-;X;X;86
 5107248;Santa Carmem (MT);197206;37;12;-;X;21695;218950
 5107263;Santo Afonso (MT);20417;X;X;-;-;-;20417
@@ -5305,7 +5305,7 @@
 5108006;Tapurah (MT);229949;56;106;-;X;X;230111
 5108055;Terra Nova do Norte (MT);21976;162;428;X;X;-;22566
 5108105;Tesouro (MT);77584;X;41;-;-;-;77625
-5108204;Torixoréu (MT);X;-;X;-;-;-;NA
+5108204;Torixoréu (MT);X;0;X;0;0;0;NA
 5108303;União do Sul (MT);128233;X;215;-;-;X;128448
 5108352;Vale de São Domingos (MT);38679;-;-;-;-;-;38679
 5108402;Várzea Grande (MT);1341;294;X;-;X;-;1635
@@ -5318,9 +5318,9 @@
 5200050;Abadia de Goiás (GO);486;250;347;-;X;-;1083
 5200100;Abadiânia (GO);17848;819;496;-;1372;X;20535
 5200134;Acreúna (GO);80912;18;X;-;-;-;80930
-5200159;Adelândia (GO);X;X;X;-;-;-;NA
+5200159;Adelândia (GO);X;X;X;0;0;0;NA
 5200175;Água Fria de Goiás (GO);74388;174;693;-;1540;X;76795
-5200209;Água Limpa (GO);X;X;-;-;-;-;NA
+5200209;Água Limpa (GO);X;X;0;0;0;0;NA
 5200258;Águas Lindas de Goiás (GO);796;19;121;-;-;-;936
 5200308;Alexânia (GO);8943;456;728;-;X;-;10127
 5200506;Aloândia (GO);5114;55;X;-;-;X;5169
@@ -5328,10 +5328,10 @@
 5200605;Alto Paraíso de Goiás (GO);41087;866;328;X;6028;X;48309
 5200803;Alvorada do Norte (GO);8379;X;X;-;2036;X;10415
 5200829;Amaralina (GO);11527;34;X;-;-;X;11561
-5200852;Americano do Brasil (GO);X;-;-;-;X;-;NA
+5200852;Americano do Brasil (GO);X;0;0;0;X;0;NA
 5200902;Amorinópolis (GO);7881;X;X;-;X;-;7881
 5201108;Anápolis (GO);5649;2226;7097;-;412;X;15384
-5201207;Anhanguera (GO);-;-;-;-;-;-;NA
+5201207;Anhanguera (GO);0;0;0;0;0;0;0
 5201306;Anicuns (GO);15888;48;511;-;787;X;17234
 5201405;Aparecida de Goiânia (GO);837;231;X;-;-;-;1068
 5201454;Aparecida do Rio Doce (GO);1996;X;-;X;-;-;1996
@@ -5342,7 +5342,7 @@
 5202155;Araguapaz (GO);4318;X;X;-;-;-;4318
 5202353;Arenópolis (GO);8365;X;X;-;-;-;8365
 5202502;Aruanã (GO);3390;X;-;-;-;-;3390
-5202601;Aurilândia (GO);X;-;X;-;X;-;NA
+5202601;Aurilândia (GO);X;0;X;0;X;0;NA
 5202809;Avelinópolis (GO);2321;262;60;-;X;X;2643
 5203104;Baliza (GO);13479;X;X;-;982;-;14461
 5203203;Barro Alto (GO);18639;-;3172;X;X;-;21811
@@ -5352,14 +5352,14 @@
 5203559;Bonfinópolis (GO);1470;293;377;-;X;-;2140
 5203575;Bonópolis (GO);21136;X;-;-;X;-;21136
 5203609;Brazabrantes (GO);955;62;-;-;X;-;1017
-5203807;Britânia (GO);X;X;-;-;-;-;NA
+5203807;Britânia (GO);X;X;0;0;0;0;NA
 5203906;Buriti Alegre (GO);17919;X;1662;-;X;-;19581
 5203939;Buriti de Goiás (GO);244;10;-;-;-;-;254
 5203962;Buritinópolis (GO);746;-;-;-;X;-;746
 5204003;Cabeceiras (GO);42233;84;5087;-;X;-;47404
 5204102;Cachoeira Alta (GO);12465;X;X;-;X;-;12465
 5204201;Cachoeira de Goiás (GO);X;X;-;-;1367;-;1367
-5204250;Cachoeira Dourada (GO);X;-;-;-;X;-;NA
+5204250;Cachoeira Dourada (GO);X;0;0;0;X;0;NA
 5204300;Caçu (GO);37385;X;X;-;-;-;37385
 5204409;Caiapônia (GO);156043;245;108;-;139;-;156535
 5204508;Caldas Novas (GO);40517;159;X;-;X;-;40676
@@ -5370,7 +5370,7 @@
 5204805;Campo Alegre de Goiás (GO);124021;94;645;X;X;-;124760
 5204854;Campo Limpo de Goiás (GO);1120;694;619;-;X;-;2433
 5204904;Campos Belos (GO);335;X;X;-;-;-;335
-5204953;Campos Verdes (GO);X;-;-;-;-;-;NA
+5204953;Campos Verdes (GO);X;0;0;0;0;0;NA
 5205000;Carmo do Rio Verde (GO);11299;-;X;-;-;-;11299
 5205059;Castelândia (GO);16836;-;24;-;-;-;16860
 5205109;Catalão (GO);134927;500;1660;X;16844;X;153931
@@ -5382,14 +5382,14 @@
 5205497;Cidade Ocidental (GO);3194;199;718;-;X;-;4111
 5205513;Cocalzinho de Goiás (GO);19508;1285;373;-;X;-;21166
 5205521;Colinas do Sul (GO);13377;33;X;-;X;-;13410
-5205703;Córrego do Ouro (GO);X;X;X;-;-;-;NA
+5205703;Córrego do Ouro (GO);X;X;X;0;0;0;NA
 5205802;Corumbá de Goiás (GO);46479;114;X;-;556;X;47149
 5205901;Corumbaíba (GO);13347;X;-;-;X;-;13347
 5206206;Cristalina (GO);302330;3816;6650;X;6164;-;318960
 5206305;Cristianópolis (GO);3897;X;X;X;X;-;3897
 5206404;Crixás (GO);1251;474;X;-;X;-;1725
-5206503;Cromínia (GO);X;-;X;-;-;-;NA
-5206602;Cumari (GO);X;-;X;-;-;-;NA
+5206503;Cromínia (GO);X;0;X;0;0;0;NA
+5206602;Cumari (GO);X;0;X;0;0;0;NA
 5206701;Damianópolis (GO);1207;-;-;-;-;X;1207
 5206800;Damolândia (GO);144;195;56;-;X;-;395
 5206909;Davinópolis (GO);2039;X;X;-;X;-;2039
@@ -5407,7 +5407,7 @@
 5208152;Gameleira de Goiás (GO);34158;974;538;-;1140;X;36810
 5208301;Divinópolis de Goiás (GO);613;-;-;-;-;-;613
 5208400;Goianápolis (GO);X;1808;984;-;-;X;2792
-5208509;Goiandira (GO);X;X;X;-;-;-;NA
+5208509;Goiandira (GO);X;X;X;0;0;0;NA
 5208608;Goianésia (GO);22890;278;2187;X;131;-;25486
 5208707;Goiânia (GO);1293;1190;273;X;166;X;2922
 5208806;Goianira (GO);2972;193;256;-;X;-;3421
@@ -5417,7 +5417,7 @@
 5209200;Guapó (GO);2547;307;31;X;-;X;2885
 5209291;Guaraíta (GO);155;X;X;-;-;-;155
 5209408;Guarani de Goiás (GO);4897;X;608;X;X;-;5505
-5209457;Guarinos (GO);X;X;X;-;-;-;NA
+5209457;Guarinos (GO);X;X;X;0;0;0;NA
 5209606;Heitoraí (GO);1460;X;X;-;-;-;1460
 5209705;Hidrolândia (GO);4177;850;2039;X;973;X;8039
 5209804;Hidrolina (GO);6599;44;2303;-;X;-;8946
@@ -5432,7 +5432,7 @@
 5210406;Itaberaí (GO);28436;168;3149;X;417;X;32170
 5210562;Itaguari (GO);1640;-;X;-;X;-;1640
 5210604;Itaguaru (GO);X;X;1259;-;-;-;1259
-5210802;Itajá (GO);X;X;-;-;-;-;NA
+5210802;Itajá (GO);X;X;0;0;0;0;NA
 5210901;Itapaci (GO);11771;957;X;X;-;X;12728
 5211008;Itapirapuã (GO);761;X;X;-;X;-;761
 5211206;Itapuranga (GO);9517;185;276;-;X;X;9978
@@ -5454,12 +5454,12 @@
 5212709;Mambaí (GO);3166;250;X;-;X;X;3416
 5212808;Mara Rosa (GO);6770;39;X;-;-;-;6809
 5212907;Marzagão (GO);2356;X;X;-;X;-;2356
-5212956;Matrinchã (GO);X;X;-;-;-;-;NA
-5213004;Maurilândia (GO);X;X;-;-;-;-;NA
+5212956;Matrinchã (GO);X;X;0;0;0;0;NA
+5213004;Maurilândia (GO);X;X;0;0;0;0;NA
 5213053;Mimoso de Goiás (GO);32179;80;X;-;X;-;32259
 5213087;Minaçu (GO);20758;1278;254;-;515;X;22805
 5213103;Mineiros (GO);201327;40;457;-;1501;X;203325
-5213400;Moiporá (GO);X;-;X;-;-;-;NA
+5213400;Moiporá (GO);X;0;X;0;0;0;NA
 5213509;Monte Alegre de Goiás (GO);2623;X;-;-;-;2868;5491
 5213707;Montes Claros de Goiás (GO);46609;58;X;X;X;X;46667
 5213756;Montividiu (GO);159708;4;-;-;-;-;159712
@@ -5474,29 +5474,29 @@
 5214507;Nerópolis (GO);1776;527;1077;-;X;-;3380
 5214606;Niquelândia (GO);127321;100;X;-;4789;X;132210
 5214705;Nova América (GO);1047;X;189;-;-;X;1236
-5214804;Nova Aurora (GO);X;X;-;-;-;-;NA
+5214804;Nova Aurora (GO);X;X;0;0;0;0;NA
 5214838;Nova Crixás (GO);23945;0;X;-;8843;X;32788
 5214861;Nova Glória (GO);10150;X;306;2677;-;-;13133
-5214879;Nova Iguaçu de Goiás (GO);X;X;X;-;-;-;NA
-5214903;Nova Roma (GO);X;-;-;-;X;-;NA
+5214879;Nova Iguaçu de Goiás (GO);X;X;X;0;0;0;NA
+5214903;Nova Roma (GO);X;0;0;0;X;0;NA
 5215009;Nova Veneza (GO);384;682;115;-;X;X;1181
-5215207;Novo Brasil (GO);X;X;-;-;X;-;NA
+5215207;Novo Brasil (GO);X;X;0;0;X;0;NA
 5215231;Novo Gama (GO);9042;58;X;-;-;-;9100
 5215256;Novo Planalto (GO);10833;-;-;-;-;-;10833
 5215306;Orizona (GO);44709;52;310;X;2027;X;47098
 5215405;Ouro Verde de Goiás (GO);1291;751;1575;-;1324;-;4941
 5215504;Ouvidor (GO);4384;X;X;-;X;-;4384
 5215603;Padre Bernardo (GO);59810;1075;980;101;4380;62;66408
-5215652;Palestina de Goiás (GO);X;X;X;-;-;-;NA
+5215652;Palestina de Goiás (GO);X;X;X;0;0;0;NA
 5215702;Palmeiras de Goiás (GO);38371;192;1111;X;291;X;39965
 5215801;Palmelo (GO);1120;X;X;-;-;-;1120
 5215900;Palminópolis (GO);9064;X;X;-;X;-;9064
-5216007;Panamá (GO);X;-;X;-;-;-;NA
+5216007;Panamá (GO);X;0;X;0;0;0;NA
 5216304;Paranaiguara (GO);21788;37;X;X;X;-;21825
 5216403;Paraúna (GO);140029;36;1330;8962;3069;-;153426
 5216452;Perolândia (GO);61414;X;X;-;-;-;61414
 5216809;Petrolina de Goiás (GO);3273;444;2300;-;568;-;6585
-5216908;Pilar de Goiás (GO);X;-;X;-;-;-;NA
+5216908;Pilar de Goiás (GO);X;0;X;0;0;0;NA
 5217104;Piracanjuba (GO);86475;365;818;X;575;X;88233
 5217203;Piranhas (GO);32146;1;452;-;X;X;32599
 5217302;Pirenópolis (GO);18269;1027;2374;-;225;30;21925
@@ -5517,7 +5517,7 @@
 5219001;Sanclerlândia (GO);512;X;X;-;-;-;512
 5219100;Santa Bárbara de Goiás (GO);3022;17;X;-;X;-;3039
 5219209;Santa Cruz de Goiás (GO);23638;X;X;-;1291;-;24929
-5219258;Santa Fé de Goiás (GO);X;X;X;-;-;-;NA
+5219258;Santa Fé de Goiás (GO);X;X;X;0;0;0;NA
 5219308;Santa Helena de Goiás (GO);74773;69;X;-;-;-;74842
 5219357;Santa Isabel (GO);17005;-;496;-;X;X;17501
 5219407;Santa Rita do Araguaia (GO);8841;X;X;-;-;-;8841
@@ -5551,11 +5551,11 @@
 5221452;Trombas (GO);5540;X;X;-;-;X;5540
 5221502;Turvânia (GO);11050;X;X;-;-;-;11050
 5221551;Turvelândia (GO);45979;X;-;X;-;-;45979
-5221577;Uirapuru (GO);X;X;-;-;-;-;NA
+5221577;Uirapuru (GO);X;X;0;0;0;0;NA
 5221601;Uruaçu (GO);35943;119;516;-;474;-;37052
 5221700;Uruana (GO);8578;183;1121;X;499;-;10381
 5221809;Urutaí (GO);7440;X;X;-;X;-;7440
-5221858;Valparaíso de Goiás (GO);X;X;-;-;-;-;NA
+5221858;Valparaíso de Goiás (GO);X;X;0;0;0;0;NA
 5221908;Varjão (GO);1418;81;325;X;-;-;1824
 5222005;Vianópolis (GO);52089;89;X;-;529;-;52707
 5222054;Vicentinópolis (GO);50417;X;-;-;-;X;50417
